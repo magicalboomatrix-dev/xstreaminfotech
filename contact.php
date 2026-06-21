@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact</title>
+    <?php include "head.php" ?>
+	</head>
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Book a discovery</span>  <br>
+			<span>session</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>At XSTREAM INFOTECH, we’re passionate about transforming your digital marketing ambitions into reality. Whether you<br> have a query, feedback, or would simply like to discuss your business’s digital marketing needs, please don’t<br>hesitate to get in touch. Our team values your insights, and we look forward to creating an effective and<br> innovative solution tailored specifically for you.</p>		
+			</div>
+		</div>
+	</div>
+	
+	  
+
+<!-- contact_details start  -->
+
+   <div class="contact_details">
+        
+         <div class="container">
+         <div class="row">
+              <div class="col-lg-5 col-md-12 col-sm-12">
+                   <div class="left_side_contact">
+                         <h2>Reach out to us</h2>
+                         <h3>OFFICE ADDRESS</h3>
+                         <span>Unit 7/1 Bromham Pl, Richmond VIC 3121</span>
+
+                        <div class="map_section">
+                          <div class="map_area">
+
+                                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13964.034926057408!2d75.6000831!3d28.9574655!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3913b68ba2dbf349%3A0xe6c0a4bf28fd4858!2sTagore%20College%20Of%20Education%20Barwa!5e0!3m2!1sen!2sin!4v1681018648113!5m2!1sen!2sin" width="100%" height="100%" style="border:0; " allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                             </div>
+                        </div>
+
+                         <h3 style="margin-top: 20px;">PHONE</h3>
+
+                         <span>+91 82220 02546</span>
+
+                         <h3 style="margin-top: 25px;">SOCIAL MEDIA</h3>
+                         <p>Connect with us and stay updated on the latest industry trends and insights. You can find us on LinkedIn, Facebook, Instagram and TikTok.</p>
+
+                         <div class="contact_social_media_icons">
+                              <ul class="list-inline">
+                                 <li class="list-inline-item"><a href=""><i class="ri-linkedin-fill"></i></a></li>
+                                 <li class="list-inline-item"><a href=""><i class="ri-facebook-fill"></i></a></li>
+                                 <li class="list-inline-item"><a href=""><i class="ri-instagram-line"></i></a></li>
+                                 <li class="list-inline-item"><a href=""><i class="ri-music-line"></i></a></li>
+
+                              </ul>
+                         </div>
+                   </div>
+              </div>
+
+              <div class="col-lg-7 col-md-12 col-sm-12">
+                  
+                    <div class="contact_form">
+                          <p>To book in your free discovery session and audit, call 1300 127 361 or send us a message below.</p>
+
+                            <form class="form">
+
+                               <div class="row">
+                                    <div class="col-lg-6 col-md-12 col-sm-12">
+                                        <label>Full name*</label>
+                                         <input type="text"  placeholder="Enter your full name" name="">
+                                    </div> 
+                                    <div class="col-lg-6 col-md-12 col-sm-12">
+                                        <label>Email address*</label>
+                                         <input type="text"  placeholder="Enter your email address" name="">
+                                    </div>
+                                </div> 
+                               <div class="row">
+                                    <div class="col-lg-6 col-md-12 col-sm-12">
+                                        <label>Phone number*</label>
+                                         <input type="text"  placeholder="Enter your phone number" name="">
+                                    </div> 
+                                    <div class="col-lg-6 col-md-12 col-sm-12">
+                                        <label>Website*</label>
+                                         <input type="text"  placeholder="Enter your website" name="">
+                                    </div>
+                                </div>   
+
+                                <div class="row">
+                                     <div class="col-lf-12">
+                                           <label>What marketing solutions can XSTREAM INFOTECH help you with?</label>
+                                           <textarea class="textarea" placeholder="Enter your message" aria-invalid="false" rows="7" cols="75"></textarea>
+
+                                     </div>
+                                </div>
+                                <div class="row">
+                                     <div class="col-lf-12">
+                                           <label>Verification: What does 2 + 3 equal?</label>
+                                            <input type="text"  placeholder="Enter your answer" name="">
+
+                                     </div>
+                                </div>
+								
+								<button class="header_btn">
+				<span>Send Now</span>
+                <i class="ri-arrow-right-line"></i>
+				</button>
+                                 
+                            </form>
+                    </div>
+              </div>
+         </div>
+         </div>
+
+   </div>
+
+
+
+<!-- contact_details end -->
+
+
+
+
+<!-- Our_result_show_secton end -->
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Facebook Marketing</title>
+    <?php include "head.php" ?>
+	</head>
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Cutting-edge Facebook</span>  <br>
+			<span>marketing from Melbourne’s</span>  <br>
+			<span>leading boutique agency</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Harness the power behind one of the world’s most-visited websites with our Facebook marketing services. <br>
+			 Reach, engage, and convert your audiences through tailored strategies from our expert team.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">More Than Just Likes And Shares</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>We bring together a wide range of expertise, covering every aspect of the digital marketing and SEO journey. Our team achieves exceptional results for you by becoming a part of your business. We take the time to learn about your company, your audience and your ambitions for the future.</p>
+					 
+					 <h2>A service that goes well beyond your typical Facebook marketing agency in Melbourne</h2>
+					 
+					 <p>Our team is on hand whenever you need us, applying the same attention to detail and precision we would to our own marketing campaigns. We understand that marketing budgets can be tight, and we don’t spend a cent of your investment on anything we wouldn’t for our own business. Our success is based on yours, which motivates us to look for the best solution, not simply the first or most obvious.</p>
+					 <p>XSTREAM INFOTECH helps you create the ideal Facebook marketing and remarketing campaigns. Rest assured, we have the experience and expertise to help you get the most from Facebook; with memorable, engaging advertisements, both for the initial visit and the remarketing ones that bring visitors back for a second look. We will help you build a Facebook business page that makes it simple for your audience to get the answers they want and to contact your business.</p>
+					 
+					 <h2>Transparent reporting</h2>
+					 <p>With our comprehensive reporting and performance analysis, you’ll have full visibility into the effectiveness of your Facebook marketing efforts. We provide detailed insights into key metrics such as reach, engagement, conversions, and return on spend, letting you to make informed decisions and refine your strategy for optimal results. Our transparent reporting ensures that you’re fully across the impact of your investment, letting you make informed decisions toward your business objectives through Facebook marketing.</p>
+					
+                     <div class="hide_text">
+
+					<h2>Facebook marketing: more than just likes and shares</h2>		
+					 
+					<p>Facebook isn’t simply a way to put ads in front of users. Sure, that is part of it, but more than that, Facebook is an ecosystem. It’s a place where people find news and reviews, connect with their friends and family, and discover and interact with businesses. In fact, some businesses find that Facebook’s messaging app is one of the primary ways that customers make contact.</p>
+					
+					<p>Facebook remarketing works in a similar way to Google remarketing, but instead of following your customers across the internet, it reminds them of products and services within Facebook itself. The average time spent on Facebook per day is 20 minutes. That isn’t much, and Facebook remarketing allows you to stay in front of your audience for as much of that time as possible.</p>					
+					  
+					
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study3.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+
+	  
+	   <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid">
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Talk to our specialist team <br> today and learn more about <br> how we can help with your <br> Facebook Ads campaign</h2>
+			<p>Unleash the full potential of your business with our elite Facebook marketing strategies. As a leading Facebook ads agency in Melbourne, we specialise in transforming ordinary brands with sustainable and well-built Facebook campaigns. </p>
+			<p>No matter the size or nature of your business, our customised, data-backed Facebook marketing campaigns can grow your online presence, capture your target audience’s attention, and fuel your revenue growth.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+
+	  <?php include "blog-slider.php" ?>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Facebook Business: starting with the basics</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>A well-organised Facebook Business page is the cornerstone of an effective Facebook marketing strategy. We’ll help you ensure that all essential business information is accurately filled out. We can also help craft a compelling ‘About’ section to succinctly tell your brand’s story and draw in potential customers. Our Melbourne-based team can provide advice and input on creating a diverse mix of content that resonates with your audience, including educational posts, behind-the-scenes insights, and promotional material.</p>
+					 
+                     <p>We’ll emphasise the importance of consistency in your posting schedule and show you how to use Facebook’s scheduling tools to maintain an active, engaging online presence.</p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>Our team values</h2>
+			<div class="elementor-widget-container">
+				<p>At the core of our values is a deep understanding of the industry and technical expertise. We go beyond the conventional agency-client relationship, offering more than just monthly updates.
+				</p>
+				<p>
+					Whether it’s fast, responsive communication or arranging onsite visits for our Melbourne clients, our team is always just a phone call away, ready to support you anytime you need us. Experience the difference of having a team that is not just focused on running campaigns but is genuinely invested in achieving the best results for your business, ensuring your money is well-spent.
+				</p>				
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/Facebook-Marketing-Agency.webp" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> How can XSTREAM INFOTECH help my business grow on Facebook?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>As a leading Facebook Ads marketing agency in Melbourne, XSTREAM INFOTECH is fully equipped to help your business grow in several powerful ways:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Strategic ad campaigns:</strong> We’ll develop customised, targeted advertising campaigns on Facebook to effectively reach your specific audience. Using advanced audience segmentation tools and artificial intelligence algorithms, we can target your advertisements to potential customers based on demographics, interests, behaviours, and even their online purchasing patterns.
+		</li>
+		<li>
+			<strong>Optimised content creation:</strong> Our team of content experts create high-quality, engaging content that resonates with your target audience, enhancing brand awareness, customer engagement, and conversion rates.
+		</li>
+		<li>
+			<strong>Performance analytics:</strong> We don't just run campaigns; we constantly monitor and analyse them. Using Facebook's detailed analytics, we track key metrics like engagement rate, click-through rate, conversion rate, etc., and adjust our strategies in real-time to optimise the campaign performance.
+		</li>
+		<li>
+			<strong>Facebook SEO:</strong> Yes, 
+			<a href="/seo/">
+				<span style="text-decoration: underline;">SEO</span>
+			</a> isn't just for Google. Facebook's internal search engine can be optimised to ensure your business page and posts are easily discoverable. We leverage our knowledge of Facebook's algorithms to make sure your content gets the visibility it deserves.
+		</li>
+		<li>
+			<strong>Customer engagement:</strong> Engagement is a critical part of 
+			<span style="text-decoration: underline;">
+				<a href="/social-media-marketing/">social media marketing</a>
+			</span>. As such, we create interactive posts to establish and nurture relationships with your audience.
+		</li>
+		<li>
+			<strong>Retargeting and lookalike audiences:</strong> By leveraging Facebook's retargeting and lookalike audience features, we can reach people who've shown interest in your business and find new audiences who are likely to be interested based on their similarity to your existing customers.
+		</li>
+	</ul>
+	<p>Ultimately, XSTREAM INFOTECH’s goal is to help your business achieve sustainable growth. Our strategies are dynamic and adaptable, ensuring they stay effective as market trends evolve and your business needs change. We would be excited to partner with you and see your business thrive on Facebook.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> How do you measure the success of a Facebook marketing campaign?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>We consider a variety of metrics and key performance indicators tailored specifically to your business objectives and goals. These include but are not limited to:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Reach and engagement:</strong> These metrics give us a sense of how many people are seeing your content and how they are interacting with it. Engagement can include actions such as likes, shares, comments, and clicks.
+		</li>
+		<li>
+			<strong>Impressions:</strong> This metric shows us the number of times an ad was on someone's screen. We often look at the frequency, too, to determine how many times a unique user sees your ad.
+		</li>
+		<li>
+			<strong>Click-through rate (CTR):</strong> The CTR measures how many people clicked on your ad after seeing it. A high CTR typically indicates that the ad is relevant and appealing to your target audience.
+		</li>
+		<li>
+			<strong>Conversion rate:</strong> Perhaps the most crucial metric, the conversion rate tells us how many users completed a desired action after clicking on your ad. This could be anything from making a purchase, signing up for a newsletter, downloading a whitepaper, or any other goal aligned with your campaign.
+		</li>
+		<li>
+			<strong>Return on ad spend (ROAS):</strong> This important financial metric allows us to evaluate the profitability of your advertising campaign. It's calculated by dividing the revenue generated from the campaign by the total ad spend.
+		</li>
+		<li>
+			<strong>Customer acquisition cost (CAC):</strong> This is the cost associated with acquiring a new customer. In the context of a Facebook campaign, it would be calculated by dividing the total campaign cost by the number of new customers acquired.
+		</li>
+		<li>
+			<strong>Customer lifetime value (CLV):</strong> We calculate this to understand the total revenue a business can reasonably expect from a single customer account. Comparing CLV to CAC helps us understand the profitability of your customer acquisition strategies over the long term.
+		</li>
+	</ul>
+	<p>Remember, these metrics don't exist in isolation—we analyse them in context with one another to gain a holistic understanding of your campaign's performance. Our team also makes use of Facebook's comprehensive analytics tools, along with other third-party software, for detailed reporting and insight generation.</p>
+	<p>We prioritise continually testing and optimising your campaigns. By 
+		<span style="text-decoration: underline;">
+			<a href="/conversion-rate-optimisation/">A/B testing</a>
+		</span> different elements of your ads, we gain insight into what works best for your audience, allowing us to continuously refine and improve your marketing strategy for the best possible outcomes.
+	</p>
+	<p>And lastly, we believe that communication is key. You can expect regular, clear, and comprehensive reports to keep you updated on your campaign's progress and success.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span> How long does it take to see results from a social media marketing campaign?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>The timeline for seeing results from a Facebook marketing campaign can vary based on several factors such as your business goals, the maturity of your brand, your current online presence, and your target audience.</p>
+	<p>Each campaign and business are unique—as a leading Facebook Ads marketing agency in Melbourne, our devoted team will constantly monitor and analyse campaign performance, adjusting as necessary to drive the best possible results for your business.</p>
+	<p>Moreover, we believe in transparency and you will be informed about all the steps we are taking and the results we're seeing in real time. We provide regular reports and are always available to discuss any questions or concerns you might have throughout our partnership.</p>
+	<p>We also focus on building long-term, sustainable growth rather than quick, temporary spikes in results. This way, your business can benefit from a steady increase in brand awareness, engagement, and ultimately, conversions. Your success is our success, and we are committed to helping your business thrive through effective Facebook marketing strategies.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> How do you measure success in a social media campaign?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Staying up to date with the latest Facebook marketing trends and algorithms is a key aspect of our service. Here's how we do it:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Continuous education:</strong> We subscribe to a variety of industry publications, blogs, and websites that keep us abreast of the latest developments in Facebook marketing. This includes both official sources from Facebook itself and unofficial but trusted voices in the marketing community.
+		</li>
+		<li>
+			<strong>Industry conferences and webinars:</strong> We regularly attend digital marketing conferences, seminars, and webinars, especially those specifically focused on social media and Facebook. These events allow us to learn directly from the top experts in our field, and they're also great opportunities to network and share knowledge with other marketing professionals.
+		</li>
+		<li>
+			<strong>Facebook Blueprint:</strong> Facebook's own training and certification program, Blueprint, is an invaluable resource. It helps us understand changes to Facebook's ad platform, tools, and algorithms from the source itself.
+		</li>
+		<li>
+			<strong>Testing and analysis:</strong> We don't just rely on external knowledge—we also constantly experiment with our own Facebook campaigns. By testing different strategies and analysing the results, we can gain firsthand knowledge of what works and what doesn't in the ever-changing Facebook landscape.
+		</li>
+		<li>
+			<strong>Professional networking:</strong> We participate in professional online communities, forums, and social networks where information about the latest trends and algorithms is shared and discussed.
+		</li>
+		<li>
+			<strong>In-house training:</strong> Any new insights or learning we acquire are not kept to individuals. We conduct regular in-house training sessions, where our team members share their new knowledge and insights, ensuring the whole team stays up to speed.
+		</li>
+	</ul>
+	<p>By staying at the forefront of Facebook marketing, we can create the most effective campaigns for our clients, adapting quickly to any changes in the platform to ensure optimal performance at all times.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span> How do you track the performance of my Facebook campaign?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>It goes without saying that tracking the performance of your Facebook campaigns is critical to understand how your marketing efforts are translating into results. There are multiple tools and metrics available to do so, and as an agency specialising in Facebook Ads and social media marketing solutions, we employ a combination of these to provide a comprehensive view of your campaign performance.</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Facebook Ads Manager:</strong> Facebook's own tool is our primary go-to source for tracking campaign performance. It provides a wealth of metrics such as impressions, reach, clicks, conversions, click-through rate (CTR), cost per click (CPC), cost per thousand impressions (CPM), and return on ad spend (ROAS). We customise the view to align with your business goals and key performance indicators (KPIs).
+		</li>
+		<li>
+			<strong>Facebook Pixel:</strong> This is a piece of code we put on your website to track conversions and build audiences. It helps in tracking specific actions taken on your website as a result of the Facebook ad—like a product purchase, sign-ups, page visits, etc. This enables us to understand the effectiveness of the ads and also helps in remarketing to people who have already interacted with your brand.
+		</li>
+		<li>
+			<strong>Facebook Analytics:</strong> Although Facebook is planning to phase out its Analytics tool, similar functionality is incorporated within Business Suite, Ads Manager, and Events Manager. It provides data about who is engaging with your content and how they’re interacting with it, which can be extremely valuable when shaping your overall marketing strategy.
+		</li>
+		<li>
+			<strong>UTM parameters:</strong> We use these to track the effectiveness of your ads at a more granular level. By adding UTM parameters to your URLs, we can track exactly where your traffic is coming from and what campaigns are driving that traffic within Google Analytics.
+		</li>
+		<li>
+			<strong>A/B Testing:</strong> We regularly run A/B tests (also known as split tests) to compare different versions of your ads to see which one performs better. This helps us refine your campaign strategy over time.
+		</li>
+		<li>
+			<strong>Custom dashboards:</strong> On top of the tools mentioned, our team creates custom dashboards integrating data from Facebook and your other marketing efforts. This way, you can have a comprehensive view of how your campaign is doing across multiple touchpoints. We can set these up to send automated reports on a weekly or monthly basis, keeping you in the loop.
+		</li>
+	</ul>
+	<p>Lastly, we believe in continuous learning and refinement. As your campaign progresses, we will keep optimising these tracking parameters to ensure the most accurate insights are always available for decision-making. The goal is to ensure your marketing spend is being used as efficiently and effectively as possible.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> Can XSTREAM INFOTECH help with remarketing strategies on Facebook?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Absolutely, XSTREAM INFOTECH is well-equipped to handle your Facebook remarketing strategies. As a digital marketing agency specialising in Facebook advertising solutions, we understand the power and potential of remarketing campaigns on Facebook and Instagram.</p>
+	<p>One of the key strengths of our team is our deep understanding of Facebook's algorithms, its user base, and the psychology of customer behaviour. We will implement comprehensive remarketing strategies that include Custom Audiences and Lookalike Audiences to re-engage users who have shown an interest in your product or service, ensuring your brand stays top of mind.</p>
+	<p>Our remarketing strategy won't be just about hitting the same notes again, but optimising and personalising your messages based on the insights we gather from the data. We believe that remarketing is an art and a science—the art of capturing attention, and the science of optimising it for conversions.</p>
+	<p>Moreover, we’ll create dynamic remarketing ads that automatically show the products people have viewed on your website or app, or show related products that might be of interest. This way, your ads will be more personalised and relevant to the users, which would increase the chances of conversions.</p>
+	<p>At XSTREAM INFOTECH, we strongly believe in transparency and close collaboration with our clients. We provide regular, detailed reports and analytics on your campaigns, so you can see the results of our work and understand the return on your investment. Let's start this journey together and take your business to new heights!</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSeven">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+						<b itemprop="name"><span class="sr">07.</span> I heard Facebook’s ad policies are strict—can you help with this?</b>
+					  </button>
+					</h2>
+					<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">We certainly can. As with 
+			<span style="text-decoration: underline;">
+				<a href="#">Google Ads</a>
+			</span>, Facebook's advertising policies are in place to protect both users and advertisers, aimed at fostering a positive and safe environment on the platform. 
+		</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">These policies cover a wide range of aspects, including the types of content that are allowed in ads, specific targeting practices, and the overall presentation of advertisements. The intent behind these policies is to maintain a high standard of user experience and to comply with legal regulations.</span>
+	</p>
+	<ul class="ul-circle">
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Common compliance issues: </b>
+			<span style="font-weight: 400;">Advertisers commonly encounter issues regarding policy compliance, particularly related to the content of their ads. This can include the use of prohibited content, making misleading claims, or inappropriate ad targeting. Understanding and avoiding these common pitfalls is crucial for the success of your Facebook marketing campaigns.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Navigating prohibited and restricted content: </b>
+			<span style="font-weight: 400;">Certain types of content are prohibited or strictly regulated on Facebook. This includes content that is offensive, misleading, or inappropriate for a general audience. It's particularly important to be aware of these restrictions when advertising products or services that fall into sensitive categories, such as adult products, alcohol, or political campaigning.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Understanding ad targeting rules: </b>
+			<span style="font-weight: 400;">Facebook has specific rules around ad targeting to ensure fairness and non-discriminatory practices. This is particularly important when it comes to sensitive categories such as age, gender, and political beliefs. Advertisers must be mindful of these rules to avoid unintentionally engaging in discriminatory practices.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Creative and copy guidelines: </b>
+			<span style="font-weight: 400;">Facebook provides specific guidelines for ad creatives and copy. These guidelines include rules about the amount of text that can appear in images, the proper use of Facebook's brand assets, and the importance of having clear, truthful messaging in ads. Adhering to these guidelines is essential for the approval and success of your ads.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Landing page compliance: </b>
+			<span style="font-weight: 400;">The landing pages to which your ads direct must offer a good user experience and be relevant to the ad itself. Facebook reviews these pages to ensure they comply with its policies, looking at factors like content relevance, user experience, and overall presentation.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Handling policy violations: </b>
+			<span style="font-weight: 400;">If your ad is rejected due to policy violations, it's crucial to understand the process for appealing this decision. You'll need to know how to adjust your ads to comply with Facebook's policies. This often involves modifying the ad content, targeting, or the landing page.</span>
+		</li>
+		<li style="font-weight: 400;" aria-level="1">
+			<b>Keeping up-to-date with policy changes: </b>
+			<span style="font-weight: 400;">Facebook's advertising policies are subject to change, so staying informed about the latest updates is important. Regularly reviewing the policies and participating in any Facebook-provided training or updates can help ensure that your advertising strategies remain compliant and effective.</span>
+		</li>
+	</ul>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

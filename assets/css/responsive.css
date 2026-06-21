@@ -1,0 +1,156 @@
+@media screen and (max-width:991px) {
+    
+    .Menu_btn,.header_phone i,.full_team_text_btn{
+       display:block !important;
+    }
+    .header_extra_btn{
+       display: none;
+    }
+    .header_logo svg {
+      padding: 0px;
+      width: 100%; 
+   }
+   .header_logo {
+    width: 45% !important;
+   }
+   .header_logo img{
+      padding: 0px;
+      width: 100%;
+      height: 22px;
+   }
+   .mobile_header_section {
+       padding: 12px 15px;
+   }
+   
+    .footer_section{
+       grid-template-columns:100%;
+       grid-template-rows:228px 200px 185px 170px;
+       padding: 40px 0px  20px!important;
+    }
+    .inner_footerdiv{
+      padding: 10px 20px;
+    }
+    .footer_social_text{
+        padding: 0px;
+    }
+    .footer_social_media_icon{
+        padding:0px 0px 15px ;
+    }
+    .footer_copyright{
+        padding: 25px 0px 15px;
+    }
+    .footer_logo{
+        padding: 10px 20px 10px;
+    }
+    .footer_copyright ul,.we_Different_section_content ul li{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer_input input{
+        width: 96%;
+    }
+    .footer_top_btn,.footer_input_btn,.why_choose_right_section_btn{
+        display: block !important;
+    }
+    .why_choose_left_section, .why_choose_right_section{
+        padding: 15px 10px !important;
+    }
+    .why_choose_right_section_btn{
+        width: 54% !important;
+    }
+    .footer_top p{
+        padding: 20px 0px !important;
+        font-size: 18px !important;
+    }
+    .footer_top_btn{
+        width: 60%!important;
+        padding: 10px 0px !important;
+    }
+    .we_Different_section{
+        padding: 60px 20px;
+    }
+    .team_section{
+       padding:20px ;
+    }
+    .Our_Philosophy_right_section_btn:before{
+        width:70%;
+        right: -142px;
+    }
+    .Our_Philosophy_right_section_btn:hover.Our_Philosophy_right_section_btn:before{
+        width:73%;
+    }
+    .footer_input_btn{
+        left:155px;
+    }
+    .contact_details{
+        padding: 25px 0px;
+    }
+    .left_side_contact,.contact_form{
+        padding: 20px;
+    }
+    .Our_result_input_section{
+        padding: 0px 20px 25px;
+    }
+    .Our_result_show_secton{
+      padding: 0px 20px 40px 20px;
+      grid-template-columns:100%;
+      grid-template-rows:520.58px;
+    }
+    .Our_result_btn{
+        padding-bottom: 50px;
+    }
+    .Our_insights_show_secton{
+      grid-template-rows:325.58px !important;
+    }
+    .team_image_section{
+        padding: 20px 20px 60px;
+       grid-template-columns: 100%;
+       grid-template-rows: 400px;
+   }
+   .full_team_details{
+       padding: 40px 0px;
+       grid-template-columns:100%;
+       grid-template-rows:303px;
+   }
+   .full_team_text{
+       padding: 30px 20px;
+   }
+    .full_image_team img{
+        height: 200px;
+    }
+    .image_full_text{
+         padding: 25px 30px;
+    }
+    .image_full_text h2{
+        padding: 0px;
+        font-size: 15px !important;
+    }
+    .full_team_text_btn{
+        width: 55% !important;
+    }
+    .seo_AWARD_WINNING_section{
+        padding: 50px 0px !important;
+    }
+    .client_section{
+       grid-template-columns:100%;
+       grid-template-rows:repeat(6,110px);
+    }
+
+    .seo_full_image_section{
+        padding: 20px 0px;
+       grid-template-columns:100%;
+       grid-template-rows: 250px;
+
+     }
+      .seo_full_img_box img{
+          height:250px;
+      }
+      .seo_full_image_text{
+          background-color: #f7f6f2;
+          padding: 30px 20px 40px 20px;
+      }
+      .faq_section {
+         padding: 30px 20px;
+     }
+
+}    

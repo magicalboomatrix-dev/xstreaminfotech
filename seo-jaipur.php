@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Seo Jaipur</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Bespoke SEO agency</span>  <br>
+			<span>for Jaipur businesses.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>At XSTREAM INFOTECH, SEO is our core area of expertise and our commitment to your success. Our team is not a faceless
+			<br> corporate entity but a group of handpicked experts dedicated to bringing your digital presence to life in Jaipur.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Your Jaipur SEO agency</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>We thrive on deep technical knowledge, honesty, and transparency, ensuring that the promises we make are backed by tangible results.</p>					 
+					 
+					 <p>With a holistic 360-degree approach, XSTREAM INFOTECH doesn’t just offer services; we provide a comprehensive partnership for your business. Our dedicated team of seasoned SEO strategists, technical experts, creative minds, and content writers collaborate to propel your business forward. We’re invested in your success, working collaboratively to navigate the intricacies of the SEO landscape in Jaipur and drive meaningful results for your business.  Whether you’re in ecommerce, a large scale enterprise, or a growing business, our team customises digital marketing solutions to align with your specific goals, slotting into your business seamlessly.</p>
+
+					 <h2>Targeting sustainable SEO growth for Jaipur businesses</h2>
+
+					 <p>All our strategies are designed to provide a long-term solution that supports continuous improvement. Our journey with you begins with a thorough SEO audit, revealing the current standing of your website in Jaipur and any other markets you’re targeting. From there, we optimise and refine your entire SEO presence, ensuring sustained growth.</p>
+					
+                     <div class="hide_text">
+  					 
+						<h2>Our SEO audit process</h2>
+						
+						<p>During the audit process at XSTREAM INFOTECH, transparency and thoroughness are our guiding principles. We delve deep into every aspect of your online presence, meticulously examining your website’s performance, content quality, technical setup, and backlink profile. Our goal is to uncover any issues or opportunities that may be impacting your SEO performance in Jaipur.</p>
+						
+						<p>We start by conducting a comprehensive technical audit to identify any technical errors or issues that could be hindering your website’s visibility and performance in search engine results. This includes analysing factors such as site speed, mobile-friendliness, crawlability, and indexability.</p>
+						
+						<p>Next, we assess the quality and relevance of your website’s content. We evaluate factors such as keyword optimisation, content structure, relevance to target audience, and overall engagement metrics to ensure that your content is effectively targeting and resonating with your audience.</p>
+						
+						<p>Throughout the audit process, we maintain open lines of communication with you, providing regular updates and insights into our findings and recommendations. Our goal is to empower you with the knowledge and insights needed to make informed decisions about your Jaipur-focused SEO strategy and drive meaningful results for your business.</p>
+						
+						<h2>Start a discussion with the Jaipur SEO experts</h2>
+						<p>XSTREAM INFOTECH extends its bespoke search optimization services across Australia, including from Joondalup to Rockingham and Armadale. Regardless of your business size or industry, our tailored SEO agency services align with your specific requirements. Ready to elevate your business and web presence? Reach out to us today. Call 1300 127 361 or use our contact form, and we’ll promptly connect with you.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>A team that integrates with <br> your Brisbane-based company</h2>
+			<p>As a young digital agency, we’re not just about growth; we’re about growing with you. Our results-oriented team delves into the intricacies of digital marketing, then crafts SEO strategies that align with your business needs.</p>
+			<p>Let’s embark on a journey to revolutionise your digital presence and propel your business towards and beyond its goals.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">What is ‘keyword stuffing’? Why is it viewed negatively?</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>‘Keyword stuffing’ involves excessively loading a webpage with keywords to manipulate search engine rankings. This practice not only compromises user experience by making content unnatural but also attracts penalties from search engines like Google, adversely affecting rankings and credibility.</p>
+					 
+                     <p>Navigating the complexities of Jaipur SEO can be challenging. If you’re seeking expert guidance on optimising your content effectively, we’re here to help. If you have a question, comment, or concern relating to your SEO and digital strategy, don’t hesitate to get in touch with our team.</p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>Our commitment to transparency</h2>
+			<div class="elementor-widget-container">
+				<p>Our commitment to transparency means that you’ll always know what’s happening with your Jaipur-focused SEO campaign. We provide clear and detailed updates, keeping you informed every step of the way. Whether it’s discussing strategies, sharing progress reports, or addressing any concerns you may have, our communication lines are always open.</p>	
+				<p>At XSTREAM INFOTECH, transparency isn’t just a value – it’s ingrained in our DNA. It’s how we operate, how we build relationships, and how we drive success for our clients. With hyper-transparency as our cornerstone, you can have confidence that you’re partnering with an agency that puts your needs first and keeps you informed every step of the way.</p>
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/Brisbane-SEO-Agency1.jpg" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section" style="padding-top:0;">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span>  How do algorithm updates by search engines impact Jaipur SEO strategies?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">Algorithm updates by search engines can significantly influence Jaipur SEO strategies. Search engines like Google regularly refine their algorithms to enhance user experience and deliver more relevant and valuable content. These updates may alter ranking factors, emphasising certain elements over others. </span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">Although a reactive approach to algorithm updates is rarely advisable, SEO strategies need to adapt to these changes by staying informed about updates, understanding the evolving criteria for ranking, and adjusting content and optimisation techniques accordingly. Staying proactive and agile in response to algorithm updates ensures that your SEO efforts to rank in Jaipur, Fremantle or Cannington remain effective and aligned with current search engine preferences.</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> What role does user experience (UX) play in Jaipur SEO?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">User experience (UX) is a pivotal factor in SEO, influencing how search engines assess and rank websites. Search engines prioritize delivering content that meets user expectations and provides a positive experience. Factors such as page load speed, mobile responsiveness, intuitive navigation, and engaging content contribute to a seamless user experience. </span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">Websites that prioritize UX tend to receive higher rankings in Jaipur, as search engines aim to direct users to pages that deliver both relevant information and a satisfying browsing experience. Integrating UX considerations into SEO strategies is crucial for enhancing visibility and maintaining a strong online presence.</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>	
+
+					<div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span>  How can we identify and fix broken links on our website?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">Identifying and fixing broken links is essential for maintaining a healthy website and optimising Jaipur SEO performance. Broken links negatively impact user experience and can lead to lower search engine rankings. Tools like Google Search Console or third-party link checkers will help you identify broken links on your website. </span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">Once identified, update or remove the broken links to ensure a smooth navigation experience for users. Regularly conducting link audits and implementing best practices for link management contributes to a well-optimised website, positively impacting both user satisfaction and SEO performance.</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">				   
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span>  What is the impact of duplicate content on SEO, and how can it be avoided?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">Duplicate content poses a significant challenge to your site’s SEO, as search engines aim to deliver diverse and relevant results to users. Having identical or substantially similar content across multiple pages can lead to confusion for search engines in determining which page to rank. This can result in lower rankings or, in some cases, penalties. </span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">To avoid the impact of duplicate content, implement canonical tags to specify the preferred version of a page and consolidate similar content where possible. Regularly audit your site for duplicate content and ensure each page offers unique value to users, optimising both user experience and your Jaipur SEO performance.</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>	
+
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span> How does video content play into Jaipur-based local SEO efforts?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">Video content plays a crucial role in enhancing the SEO efforts of a Jaipur-based business by increasing engagement and diversifying content formats. Search engines value a mix of multimedia elements, and incorporating videos can positively impact rankings. Videos contribute to longer dwell times on a page, signalling to search engines that the content is valuable and relevant. Optimising video titles, descriptions, and transcripts with relevant keywords also enhances visibility in search results. </span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">As users increasingly consume video content, integrating well-optimised videos into your website can significantly enhance both user experience and SEO performance.</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

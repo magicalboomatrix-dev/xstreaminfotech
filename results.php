@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Results</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero team-banner">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Exploring success </span>  <br>
+			<span>together: collaborative </span> <br> 
+			<span>growth stories with</span>  <br>
+			<span>XSTREAM INFOTECH</span>  
+			</h1>
+			</div>
+			<div class="info">
+			<p>Specialising in a range of services from search engine optimisation and social media marketing to complex Google Analytics <br> integration and conversion rate optimisation (CRO), we work relentlessly to catapult a
+			huge variety of businesses <br> into prosperous futures.</p>		
+			</div>
+		</div>
+	</div>
+	
+	  
+
+<!-- Our_result_section start -->
+
+   <div class="Our_result_section">
+         <div class="container">
+               <div class="row">
+                     <div class="col-lg-4 col-md-12 col-sm-12">
+                           <div class="Our_result_left_section">
+                                <h2>Our results</h2>
+                           </div>
+                     </div>
+                     <div class="col-lg-8 col-md-12 col-sm-12">
+                           <div class="Our_result_right_section">
+                                 
+                                  <p>At XSTREAM INFOTECH, we craft bespoke digital marketing campaigns for your business, ensuring that every decision made, every strategy implemented, is tailored to your unique needs and business goals. Our dedication to data-driven decision making, our innovative thinking, and our relentless pursuit of excellence have made us the partner of choice for businesses seeking significant long-term digital growth.</p>
+                                   
+                                 <h2>These case studies offer a glimpse into the diverse businesses we've had the pleasure of working with</h2>  
+
+                                  <p>We’re proud to say that every success story you read here has been a collaborative effort. Our clients have brought their industry knowledge, their business challenges, and their ambitious goals to the table, while our team has applied our digital marketing expertise to the mix. The result? Campaigns that have helped these businesses increase visibility, improve customer engagement, and drive growth.</p>
+
+                                  <p>Whether you’re a start-up or an established enterprise, if you’re ready to push the boundaries of your digital potential, XSTREAM INFOTECH is ready to be your partner in growth. Explore our case studies to glimpse the possibilities, and then reach out to us. Let’s write your success story together.</p>
+
+
+                           </div>
+                     </div>
+               </div>
+         </div>
+   </div>
+
+
+<!-- Our_result_section end -->
+
+
+<!--Our_result_input_section start  -->
+
+        <div class="Our_result_input_section">
+                   <div class="row">
+
+                         <div class="col-lg-6 col-md-12 col-sm-12">
+                             <div class="Our_result_input_box">
+                                  <input  type="text" placeholder="Looking for something?">
+
+                                   <div class="Our_result_input_redbox">
+                                         <span>go</span>
+                                   </div> 
+                              </div>
+                         </div>
+                         
+                         <div class="col-lg-3 col-md-12 col-sm-12">
+                             <div class="Our_result_input_box ">
+                                  <input  type="text" placeholder="Channle">
+
+                                   <div class="Our_result_input_redbox Our_result_input_red_arrow">
+                                         <span><i class="ri-arrow-down-line"></i></span>
+                                   </div> 
+                              </div>
+                         </div>
+                         
+                         <div class="col-lg-3 col-md-12 col-sm-12">
+                             <div class="Our_result_input_box">
+                                  <input  type="text" placeholder="Industry">
+
+                                   <div class="Our_result_input_redbox Our_result_input_red_arrow">
+                                         <span><i class="ri-arrow-down-line"></i></span>
+                                   </div> 
+                              </div>
+                         </div>
+                         
+                   </div>
+
+                   <h5>10 RESULTS</h5>
+        </div>
+
+
+<!--Our_result_input_section end  -->
+
+
+<!-- Our_result_show_secton start -->
+
+    <div class="Our_result_show_secton">
+
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result1.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Peter MacCallum Cancer Centre</h5>
+                      <h4>Peter MacCallum Cancer Centre is a world leading cancer treatment, research, and education centre dedicated to caring for people affected by cancer.</h4>
+                 </div>
+           </div>
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result2.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Edgar’s Mission</h5>
+                      <h4>Edgar’s Mission is a non-profit farm sanctuary in Victoria, dedicated to supporting rescued farm animals in need of a better life.</h4>
+                 </div>
+           </div>
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result3.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Hussmann</h5>
+                      <h4>Hussmann, a Panasonic owned company, is a leading supplier of commercial refrigeration systems and support services to larger scale enterprises such as supermarkets and independent retailers.</h4>
+                 </div>
+           </div>
+
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result4.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Peter Sheppard</h5>
+                      <h4>With flagship stores in Gurugram, Sydney and Brisbane, Peter Sheppard have been providing unrivalled service and the perfect fit for over 50 years.</h4>
+                 </div>
+           </div>
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result5.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Essendon Natural Health</h5>
+                      <h4>Essendon Natural Health is a natural health practice founded by Robert Gentile specialising in a range of therapies.</h4>
+                 </div>
+           </div>
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result6.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>McKean McGregor</h5>
+                      <h4>McKean McGregor is a locally owned and operated real estate and livestock clearing agency which has been operating in Central Victoria for over 100 years. </h4>
+                 </div>
+           </div>
+           
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result7.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>coreplus</h5>
+                      <h4>coreplus is a leading digital practice management software designed for the Allied Health sector.</h4>
+                 </div>
+           </div>
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/result8.webp" alt="">
+                 </div>
+                 <div class="Our_result_text">
+                      <h5>Drake International</h5>
+                      <h4>Beginning their recruitment journey in 1951, Drake International is a leading Australian and international recruitment agency.</h4>
+                 </div>
+           </div>
+           
+           
+    </div>
+
+    <div class="Our_result_btn">
+        <!--div class="load_more_btn">
+             <button>Load more</button>
+        </div-->
+		
+		<button class="header_btn">
+				<span>Load more</span>
+                <i class="ri-arrow-right-line"></i>
+				</button>
+    </div>
+
+
+<!-- Our_result_show_secton end -->
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

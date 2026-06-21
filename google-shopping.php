@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Google Shopping</title>
+   <?php include "head.php" ?>
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Need a Google Shopping</span>  <br>
+			<span>agency in Gurugram?</span>  <br>
+			<span>We’re ready to help.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Google products like Ads and Shopping can get your products front and centre for your intended audience <br> 
+			and amplify your sales. We specialise in tailored strategies for online shopping businesses of all 
+			<br> shapes and sizes.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Expert Strategy & Guidance</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>A paid service from Google, Google Shopping ads put your brand front and centre when a user performs a search. This gives your audience the tools to compare brands, prices and retailers in one spot: within the Google search engine interface itself. This gives it a big head start on other aggregator and price comparison sites, which simply list sites and products from across the internet, with little quality control and verification of authenticity.</p>
+					 
+					 <h2>Google Shopping solutions for every type of product</h2>
+					 <p>Online shopping is different to brick-and-mortar retail. Online shoppers like to compare brands and products across a wide range of sites before committing. Google Shopping brings all these elements together, giving users a single place to compare the products they’re interested in—whether they’re looking for something rare or niche, trying to choose the best flat screen TV for their needs, or simply looking for the best price. Instead of just listing your website as a place to browse for the product they’re looking for, users will be able to compare particular products, prices and brands without leaving the search engine.</p>
+					 
+					 <p>As a leading Google Shopping agency in Gurugram, XSTREAM INFOTECH has the experience and expertise to craft Google Shopping campaigns that add real value. As part of a complete digital marketing package, Google Shopping is invaluable for placing your products, prices and reputation right up against your competition. We create campaigns that are designed especially for your business and encompass the full range of search engine marketing tactics.</p>					
+					
+                     <div class="hide_text">	
+						<h2>Make the most of Google Shopping with an agency you can rely on</h2>
+					<p>Google Shopping isn’t just another price comparison website. Sure, it helps your audience find the best deal, but it’s so much more than that. Where those sites were independent and compiled a list of prices and vendors, Google Shopping puts you in charge of your listings.</p>
+					  
+					<h2>Showcase your best products, promote your sales and special offers, highlight your company’s reputation, and capture the attention of an engaged audience.</h2>
+					<p>When someone uses Google Shopping, they’re actively looking for a product. They’ve reached the research and comparison stage of their journey and they’re now looking for the business that will give them the best value for money. XSTREAM INFOTECH and Google Shopping can help you convince them that’s you.</p> 
+					
+					<h2>Google Ads as part of a complete digital marketing strategy</h2>
+					<p>XSTREAM INFOTECH helps sole traders, small businesses and those with a limited marketing budget develop a Google Ads campaign that wrings the most value out of every dollar. We know that every cent counts, and we spend the money you invest with us as if it were our own. Instead of simply throwing money at Google to get a result, we use our guile and creativity to ensure you aren’t over-investing and running at a loss. XSTREAM INFOTECH has a team of dedicated search engine marketing experts, and we use the full scope of our knowledge to help you get the most out of your budget.</p> 
+					<p>Get in touch with the team at XSTREAM INFOTECH to find out more about Google Ads. If you’re just starting out, we can help put you on the right path. Likewise, if you’ve been using Google Ads without much success, we can help you revise and refine your strategy. Call us on 1300 127 361 to speak with a friendly member of our team, or leave your details in our contact form and we’ll get back to you shortly.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study2.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>	  
+
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid">
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Speak to our team today to <br> find out more</h2>
+			<p>Discover the power of Google Shopping with the team at XSTREAM INFOTECH. Call us today on 1300 127 361 and we’ll be happy to answer your questions and queries, and give you all the information you need to make an informed decision. </p>
+			<p>You can also fill out our contact form to let us know what you need our help with. When you partner with XSTREAM INFOTECH, you’re not just hiring another Gurugram Google Shopping agency—you’re adding passion and dedication to your business.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+	  
+	 <?php include "blog-slider.php" ?>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> How does XSTREAM INFOTECH optimise product feeds for Google Shopping?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>Optimising product feeds for Google Shopping is an extensive and multi-faceted process that we've mastered here at XSTREAM INFOTECH. Our approach is grounded in the following key strategies:</p>
+							<ul class="ul-circle">
+								<li>
+									<strong>Detailed product data:</strong> Our first step is to make sure your product data is as detailed as possible. Google's algorithm favours specificity and accuracy, so including comprehensive details like colour, size, material, brand, and more will help your products appear in relevant searches.
+								</li>
+								<li>
+									<strong>Product titles:</strong> We optimise your product titles with high-converting and high-volume keywords. By conducting rigorous keyword research and placing the most important keywords at the beginning of the title, we increase the visibility of your products.
+								</li>
+								<li>
+									<strong>High-quality images:</strong> We know the importance of visual appeal in eCommerce. We ensure that all images are of high quality and accurately represent the product. A/B testing is done to identify the images that generate more clicks.
+								</li>
+								<li>
+									<strong>Product categories and types:</strong> By accurately categorising and assigning product types, we increase the chances of your products appearing in relevant search results. We go beyond Google’s basic categories and create custom labels for even more targeted campaigns.
+								</li>
+								<li>
+									<strong>Pricing strategy:</strong> We continually monitor the competitive landscape to optimise pricing strategy. We use dynamic pricing tools that adjust the product prices based on various factors like competitor pricing, demand, and inventory.
+								</li>
+								<li>
+									<strong>Promotions:</strong> If you run promotions, we ensure they are included in the feed to increase click-through rates. A/B testing is done to identify the most effective promotional messages.
+								</li>
+								<li>
+									<strong>Product descriptions:</strong> We craft descriptions that not only contain keywords but also provide valuable information to the customer, following Google's best practices.
+								</li>
+								<li>
+									<strong>Feed updates:</strong> Google values fresh data, so we regularly update the feed, ensuring that all information, such as availability and prices, is up to date.
+								</li>
+								<li>
+									<strong>Google Shopping feed health:</strong> We regularly monitor the feed to check for any errors or warnings that may affect the performance of your ads. We troubleshoot and rectify them promptly.
+								</li>
+								<li>
+									<strong>Performance analysis and ongoing optimisation:</strong> Using data analytics tools, we constantly monitor the performance of your Google Shopping campaigns. We analyse click-through rates, conversion rates, and other key metrics, and make adjustments as needed to optimise performance.
+								</li>
+							</ul>
+							<p>Our approach is a blend of technical precision, strategic planning, and creativity. We understand that each business is unique, so we tailor our feed optimisation strategy to your specific products, target audience, and business goals.</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span>  What is XSTREAM INFOTECH’s strategy for managing bids on Google Shopping?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>As a leading Gurugram-based Google Shopping agency, we leverage a sophisticated and multi-faceted approach to bid management, underpinned by advanced technology, deep expertise, and an understanding of our client's unique needs.</p>
+							<p>Our bidding strategy is heavily data-driven. We collect and analyse vast amounts of data using machine learning algorithms to identify patterns and trends that can optimise performance. We continuously monitor key metrics like click-through rates, conversion rates, and return on ad spend (ROAS), among others.</p>
+							<p>Our agency uses Google's automated bidding strategies to optimise for conversions or conversion value. However, we don't solely rely on Google's automation. We understand that every business is unique, and what works for one might not work for another.</p>
+							<p>Our expert team will frequently evaluate the effectiveness of these strategies and adjust them based on the specific needs of your campaign. For instance, during peak shopping seasons, we may increase our bids to compete more effectively. For products with low profit margins, we might lower the bid to ensure profitability.</p>
+							<p>Additionally, we make extensive use of the bid modifiers. These allow us to adjust our bids based on factors like the time of day, the user's device, location, and more. This ensures that we're not spending your budget indiscriminately, but rather targeting the people most likely to convert.</p>
+							<p>Our bid management process is iterative and agile. We constantly test, learn, and refine our bidding strategies to make sure we are maximising your return on investment. We also offer transparent reporting and communication, so you're always aware of how your budget is being spent and what kind of results you're getting.</p>
+							<p>And finally, we make sure our bidding strategies align with your overall business goals. Whether you're aiming to increase brand awareness, boost sales, or break into a new market, the XSTREAM INFOTECH team tailors our approach to match these objectives. We consider your budget, product margin, inventory, competitive landscape, and other factors in crafting and executing our strategy.</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span> How does XSTREAM INFOTECH segment products and create product groups in Google Shopping?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+						<p>Our approach to product segmentation and grouping is strategic, data-driven, and customised to align with your specific business objectives. We utilise a multistep process to ensure the highest potential for your campaign's success.</p>
+						<ul class="ul-circle">
+							<li>We begin with an in-depth analysis of your product catalogue. We study product attributes such as category, brand, product type, price range, product condition, and custom labels, amongst other factors. This analysis forms the basis of our segmentation strategy.</li>
+							<li>Based on this analysis, we create initial product groups. We typically segment products by their performance potential. For example, we might group your top-selling products separately from those that require more visibility and promotional effort.</li>
+							<li>We don't stop at just one level of segmentation, either. We dive deeper and create sub-groups based on more detailed product attributes. For instance, within a product group of your top-sellers, we might create sub-groups based on the price range or brand. This granular approach allows for highly targeted bidding strategies and ad placements.</li>
+							<li>From here, we integrate the insights derived from 
+								<span style="text-decoration: underline;">
+									<a href="/google-analytics/">Google Analytics</a>
+								</span> and other data sources to further refine our product groups. We assess the performance of the groups based on metrics such as conversion rate, cost per click, and ROI. This continuous feedback loop helps us tweak and optimise the segmentation in real-time.
+							</li>
+							<li>Lastly, we harness the power of machine learning algorithms to optimise these product groups dynamically. Our models learn from the campaign's performance data, ensuring that the product segmentation strategy evolves over time and adjusts to the changes in the market.</li>
+						</ul>
+						<p>With this methodology, we create highly strategic and dynamic product groups that not only enhance the visibility of your products, but also improve your ROI and conversion rates. However, it's important to note that this is just a standard approach, and we can tailor it to your specific requirements and business objectives.</p>
+					</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> Can XSTREAM INFOTECH help us set up and optimise Google Merchant Center?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>We specialise in not only setting up but also optimising Google Merchant Center for our clients. Our approach is comprehensive and tailored to the unique needs of your business. Here are some key aspects we focus on:</p>
+							<ul class="ul-circle">
+								<li>
+									<strong>Product feed creation &amp; optimisation:</strong> We ensure that your product feed meets all Google's standards and that all necessary attributes are filled accurately. We enhance your product titles, descriptions, and images to ensure they are search-friendly and attractive to users.
+								</li>
+								<li>
+									<strong>Data quality management:</strong> We monitor your product feed for any errors, warnings or disapprovals to ensure the smooth running of your Google Shopping campaigns. We can also integrate your feed with your ecommerce platform to automate inventory updates.
+								</li>
+								<li>
+									<strong>Google's special programs:</strong> Depending on the nature of your products and business, we can enable special programs like ‘Buy on Google’, ‘Merchant Promotions’ or ‘Local Inventory Ads’ to maximise your visibility and sales.
+								</li>
+								<li>
+									<strong>Analytics and performance monitoring:</strong> We set up Google Analytics for you to track ecommerce transactions and other important metrics. We'll monitor and analyse these metrics to make data-driven decisions and to continually optimise your shopping campaigns.
+								</li>
+								<li>
+									<strong>Advanced campaign setup:</strong> We don't stop at just setting up Google Merchant Center. We make sure that your Google Ads account is correctly linked and that the Shopping Campaigns are structured effectively to maximise ROI. We also ensure that all relevant ad extensions are added.
+								</li>
+								<li>
+									<strong>Ongoing optimisation:</strong> Optimisation is an ongoing process. We continuously work on improving your product feed, campaign structure, bidding strategy and much more. Our goal is to ensure you are getting the best possible return on your ad spend.
+								</li>
+							</ul>
+							<p>We also believe in transparency and hence provide regular, detailed reports so you can clearly see where your money is going and the results that it's bringing in.</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span> How does XSTREAM INFOTECH handle competitor analysis in Google Shopping?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>Competitor analysis is an essential component of our strategy at XSTREAM INFOTECH. Our process involves a comprehensive, multi-faceted approach:</p>
+							<ul class="ul-circle">
+								<li>
+									<strong>Product segmentation analysis:</strong> We start by examining the product portfolio of our clients and segmenting them based on various categories. These can include product type, price range, brand, etc. By doing so, we can identify direct competitors for each product segment.
+								</li>
+								<li>
+									<strong>Benchmarking:</strong> We then compare your product listings with those of your competitors. We benchmark metrics like price, reviews, ratings, and shipping times to understand where you stand in the market.
+								</li>
+								<li>
+									<strong>Keyword analysis:</strong> Using SEO tools and techniques, we analyse the keywords that your competitors are ranking for. This allows us to understand their strategy and potentially discover new, valuable keywords that your listings could target.
+								</li>
+								<li>
+									<strong>Market trends and seasonality:</strong> By observing market trends and the seasonality of products, we're able to forecast potential competitor behaviour and adjust your strategy accordingly.
+								</li>
+								<li>
+									<strong>Ad spend analysis:</strong> We also look at your competitor's ad spend, whenever possible, to understand their advertising strategy and adjust yours for optimal results.
+								</li>
+								<li>
+									<strong>Automated bidding strategy:</strong> Leveraging Google's AI and Machine Learning, we use Smart Bidding strategies to adjust your bids in real time based on a multitude of signals, including the level of competition in auctions.
+								</li>
+								<li>
+									<strong>Performance monitoring and adjustments:</strong> We don't stop at the analysis. We continuously monitor your performance in relation to competitors, adjusting strategies as needed to ensure that you're always a step ahead.
+								</li>
+							</ul>
+							<p>As a leading Google Shopping agency in Gurugram, we believe that competition analysis is not just about understanding what competitors are doing, but also about leveraging this knowledge to drive strategic decision making, improve your Google Shopping performance, and ultimately, increase your sales. By staying abreast with market changes and competitor tactics, we can pivot your strategy as necessary and ensure sustained growth for your business.</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> How does XSTREAM INFOTECH handle product feed issues like disapprovals or errors? </b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<ul class="ul-circle">
+								<li>
+									<strong>Proactive monitoring:</strong> We utilise comprehensive tools and automated alerts to monitor your product feed. This ensures we identify any errors or disapprovals as soon as they occur. We understand that preventing an issue is always better than having to resolve one.
+
+								</li>
+								<li>
+									<strong>Swift identification and resolution:</strong> Upon receiving an alert or identifying an issue manually, we move quickly to diagnose the problem. Our team has extensive knowledge of Google Shopping's policies and requirements, enabling us to pinpoint and understand the issue rapidly.
+
+								</li>
+								<li>
+									<strong>Communication and collaboration:</strong> We believe in keeping our clients in the loop. If there's an issue with your product feed, we’ll communicate it to you immediately, explaining what has happened and how we're planning to resolve it. If necessary, we’ll collaborate with you to ensure we have all the required information to fix the problem.
+
+								</li>
+								<li>
+									<strong>Expert technical support:</strong> Our team comprises seasoned e-commerce professionals and technical experts who are proficient in various feed formats and e-commerce platforms. This allows us to handle a wide range of issues, from simple data errors to complex coding problems.
+
+								</li>
+								<li>
+									<strong>Error prevention:</strong> Once we've resolved a problem, we make sure it doesn't recur. We analyse every error and disapproval to understand its root cause and take steps to prevent similar issues in the future. This involves optimising your feed, ensuring compliance with Google Shopping policies, and even providing recommendations for changes in your e-commerce platform if necessary.
+
+								</li>
+								<li>
+									<strong>Continual learning:</strong> Google Shopping's algorithms, rules, and policies are continually evolving. We keep ourselves updated with these changes, ensuring our techniques and strategies are always relevant and effective.
+								</li>
+							</ul>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

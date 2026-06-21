@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ecommerce Seo</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Unleash your potential</span>  <br>
+			<span>with Melbourne’s leading</span>  <br>
+			<span>ecommerce SEO agency</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Optimised product listings and enriched UX are just two potential targets of ecomm SEO. Our technical <br>
+			team have deep experience with ecommerce businesses of all stripes and can plan and deliver a strategy tailored <br> to your specific business circumstances.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">LEADING ECOMMERCE Seo</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>SEO is a powerful tool, but it’s not a one-size-fits-all solution. Each ecommerce business is unique, with its own set of opportunities and challenges. Understanding this, we take a tailored approach, using data and insights to drive our strategies.</p>					 
+					 
+					 <p>Our goal is to be more than just an agency. We aim to be a partner to your business, providing clear, transparent services that help you understand and navigate the complex terrain of ecommerce SEO.</p>
+
+                     <div class="hide_text">	
+						<h2>Specialised ecommerce SEO services</h2>
+                        <p>Our suite of services covers all areas of ecommerce SEO, from technical audits and on-page SEO to content strategy and local SEO. As a Melbourne-based ecommerce search engine optimisation agency, we understand the local market, and we use this knowledge to design strategies that align with your audience’s needs and preferences.</p>
+												
+						<p>The world of SEO is ever-changing, and we’re committed to staying up-to-date with the latest trends and algorithm updates. Our team invests time in continuous learning and development, ensuring that our strategies remain current and effective.</p>
+						
+						<p>Over the years, we’ve had the privilege of working with numerous ecommerce businesses, from start-ups to established brands. Our ecommerce SEO strategies have consistently delivered measurable results, including improved search visibility, increased traffic, and enhanced conversion rates.</p>
+						
+						<h2>Getting started with ecommerce SEO</h2>
+						<p>If you’re ready to explore the potential of SEO for your ecommerce business, we invite you to reach out. As a leading ecommerce SEO agency in Melbourne, we’re here to answer your questions, provide insights, and help you chart the path forward.</p>
+						<p>We believe in a collaborative process, where your goals and vision drive the strategy. Get in touch with us today, and let’s start the conversation about your ecommerce SEO journey. You’re not just another client to us—you’re a partner. Welcome to XSTREAM INFOTECH—Melbourne’s premier digital marketing agency.</p>
+						
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Getting started with <br> ecommerce SEO</h2>
+			<p>If you’re ready to explore the potential of SEO for your ecommerce business, we invite you to reach out. As a leading ecommerce SEO agency in Melbourne, we’re here to answer your questions, provide insights, and help you chart the path forward.</p>
+			<p>We believe in a collaborative process, where your goals and vision drive the strategy. Get in touch with us today, and let’s start the conversation about your ecommerce SEO journey. You’re not just another client to us—you’re a partner. Welcome to XSTREAM INFOTECH—Melbourne’s premier ecommerce search engine optimisation agency.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> What kind of ROI can we expect from your ecommerce SEO services?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>As a digital marketing agency that specialises in ecommerce SEO solutions, we understand that the key to a successful partnership is clear expectations and tangible results. While it's challenging to guarantee exact ROI figures (given that SEO results depend on several factors such as industry competition, the current state of your website, target audience, and your overall marketing strategy), we strive to provide a measurable impact to our clients.</p>
+	<p>Remember that SEO builds upon itself over time, unlike other forms of digital marketing like 
+		<span style="text-decoration: underline;">
+			<a href="#">Google Ads</a>
+		</span>. This means that your investment in SEO now can continue to pay dividends long into the future, even if you decrease your SEO spending.
+	</p>
+	<p>When monitoring your campaign progress, we will provide you with regular reports highlighting key performance metrics, including organic traffic, keyword rankings, and conversion rates. This way, you'll be able to clearly see the return on your investment in our ecommerce SEO services.</p>
+	<p>Finally, it's worth noting that while SEO is about improving visibility and driving more traffic, our strategy doesn't stop there. We aim to attract qualified traffic, focusing on those consumers who are most likely to make a purchase, thus improving not just traffic, but also conversion rates.</p>
+	<p>To get a more accurate picture of potential ROI for your specific situation, we would be happy to conduct a detailed audit of your site and create a customised SEO strategy proposal.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span>  How long will it take to see results from XSTREAM INFOTECH’s ecommerce SEO solutions?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>SEO is a strategic, long-term investment and it's important to understand that it's not a quick fix. The exact timeline can depend on several factors including the current state of your website, your industry, competition, the keywords we're targeting, and the strategies implemented.</p>
+	<p>We begin conducting a comprehensive audit of your website to identify any areas that need improvement. This includes checking for technical issues, reviewing your content for SEO best practices, researching and selecting keywords, and analysing your competition.</p>
+	<p>After the initial setup and optimisation, we move into the continuous optimisation phase. This includes creating and optimising content, building backlinks, and ongoing technical SEO for your ecommerce site.</p>
+	<p>During the first few months, you might see small improvements in your search rankings and organic traffic, but the real growth often happens after that. SEO is a compound process; the work we do in the first months will continue to build and drive results as time goes on.</p>
+	<p>What sets XSTREAM INFOTECH apart is that we provide regular, detailed reports with key metrics and analysis, so you can track progress over time and see how our efforts are positively impacting your business. We believe in transparency and ensuring our clients understand the value of the work we're doing.</p>
+	<p>Remember, SEO is not just about quick results. It's about setting up your website for sustained success in the long run, by improving visibility, driving quality traffic, and ultimately increasing sales.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span> How does ecommerce SEO differ from standard SEO?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Ecommerce SEO and regular SEO share a lot of commonalities, as they both aim to optimise websites for better visibility and rankings in search engines. However, due to the specific nature of ecommerce sites, there are certain unique aspects that differentiate ecommerce SEO. Here are some of them:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Product descriptions:</strong> Ecommerce sites typically contain many product pages. Each of these product pages needs a unique, keyword-optimised description. This differs from regular SEO, where you might focus more on optimising informational content. Ecommerce SEO requires creating relevant, engaging, and keyword-rich descriptions for potentially hundreds or thousands of individual products. Category or collection page content is also a focus.
+		</li>
+		<li>
+			<strong>Product schema markup:</strong> Ecommerce SEO often involves implementing Product Schema markup. This is a type of structured data that helps search engines understand the details of the product, such as price, availability, reviews, etc. Regular SEO might use different types of Schema, depending on the nature of the website.
+		</li>
+		<li>
+			<strong>User experience (UX):</strong> While UX is important in all SEO, it's particularly critical in ecommerce—if the site is hard to navigate, customers are likely to leave. UX in ecommerce includes elements like site search, filter options, clear navigation to different product categories, and a straightforward checkout process.
+		</li>
+		<li>
+			<strong>Customer reviews:</strong> Ecommerce SEO places a lot of emphasis on customer reviews, as they can significantly impact click-through rates (CTR) from the SERPs. Encouraging customer reviews and incorporating them into product pages can also help generate unique content for those pages, helping them rank better.
+		</li>
+		<li>
+			<strong>High-intent keywords:</strong> Unlike many informational sites, ecommerce sites usually aim to rank for transactional, high-intent keywords. These are phrases that indicate the searcher is close to making a purchase, like "[product] for sale" or "buy [product]".
+		</li>
+		<li>
+			<strong>Image optimisation:</strong> Ecommerce sites typically have many more images than other sites, and these images need to be optimised effectively. This includes using descriptive file names, alt text, and ensuring the image file size isn't too large, which could slow down page load times.
+		</li>
+		<li>
+			<strong>Managing out-of-stock products:</strong> Unlike regular websites, ecommerce sites often have to deal with discontinued or out-of-stock products. These require specific SEO strategies to either preserve the page's SEO value or correctly redirect it to a relevant, in-stock product.
+		</li>
+		<li>
+			<strong>Security:</strong> While this is important for all websites, security is especially crucial for ecommerce sites, as they handle sensitive customer information. Having a secure (HTTPS) site is a ranking factor in Google, and it can also impact customer trust.
+		</li>
+	</ul>
+	<p>Remember, the underlying principles of SEO remain the same, whether it's for ecommerce or a regular site—create high-quality, user-focused content, make sure your site is technically sound and easy to navigate, and earn high-quality backlinks. But the strategies used to achieve these goals can differ based on the specific requirements and challenges of ecommerce SEO.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> Does XSTREAM INFOTECH also offer local SEO for businesses with physical stores?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Absolutely. In fact, as an award-winning SEO agency in Melbourne, our approach to local SEO is rooted in a deep understanding of the unique needs of brick-and-mortar businesses. This comes from our experience working with a diverse range of businesses, including those operating in the ecommerce sector as well as traditional retailers.</p>
+	<p>Local SEO is all about helping your business become more visible in local search results on Google. This includes optimising your Google My Business profile, improving your on-page SEO by updating your website with local keywords, and managing your reputation through online reviews.</p>
+	<p>We recognise that every business is unique, so our local SEO strategies are always tailored to the specific needs and objectives of each client. Our process begins with a comprehensive audit of your current local SEO efforts, followed by a detailed strategy creation and finally, execution and continuous optimisation. This ensures we're always ahead of the ever-evolving SEO trends and that your business is well-positioned in the local search results.</p>
+	<p>What's more, we believe in transparent reporting. We'll keep you updated on the progress and results of your local SEO campaign, so you always know where you stand and can see the tangible value we're adding to your business.</p>
+	<p>It's also worth noting that Local SEO and ecommerce SEO can complement each other very well. The insights and data we gather from your local SEO efforts can inform strategies for your ecommerce site, and vice versa. This holistic approach to digital marketing can help ensure you're reaching and engaging your target audience effectively across all platforms and touchpoints.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span>  Can XSTREAM INFOTECH’s services be integrated with your current ecommerce platform (Shopify, Magento, WooCommerce etc.)?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Our technical team has extensive experience working with a variety of ecommerce platforms including Shopify, Magento, and WooCommerce, among others. Our strategies and solutions are not only platform-agnostic but can be specifically tailored to leverage the unique SEO features and capabilities that each platform has to offer.</p>
+	<ul class="ul-circle">
+		<li>For Shopify users, we take full advantage of its seamless integration with Google Shopping, Facebook, and other powerful marketing channels. We also optimise your product pages, collections, and leverage Shopify's blogging feature to attract organic traffic.</li>
+		<li>For WooCommerce users, we leverage the powerful SEO capabilities of WordPress, ensuring each product and category page is fully optimised. We also take advantage of numerous SEO plugins to enhance your site's visibility on search engines.</li>
+		<li>In addition to these, our team conducts comprehensive website audits, competitor analysis, keyword research, and uses analytics to continuously track and improve your site's performance. We also ensure that our strategies align with the changing algorithms of search engines for sustained organic growth. We believe in a holistic approach to SEO, where we not only improve your website's ranking but also focus on improving user experience and conversion rates.</li>
+	</ul>
+	<p>Whichever platform you're using, we can seamlessly integrate our ecommerce SEO services with it, providing a personalised strategy that is specifically designed to boost your online visibility, drive more organic traffic, and ultimately, increase sales.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> If my website needs technical changes for better SEO, will XSTREAM INFOTECH be able to assist with that?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Our team is fully equipped to assist with all aspects of technical SEO for your ecommerce site. We are able to make detailed, precise recommendations to your site developer or tech team, walking them through the requirements if necessary.</p>
+	<p>We begin with a comprehensive technical SEO audit. This process involves analysing your website’s structure, performance, and current SEO strategies to identify any areas of concern or room for improvement. Our audit covers aspects such as website speed, mobile responsiveness, XML sitemap, robots.txt file, URL structure, internal linking, and more.</p>
+	<p>Once the audit is completed, our team of experienced SEO specialists and web developers will address the identified issues. This could range from optimising your site's speed and performance, improving mobile usability, to refining the site architecture for better crawlability and indexing. We’ll also work on enhancing meta-tags, correcting 404 errors, and fixing duplicate content issues if required.</p>
+	<p>We also know how vital it is for an ecommerce site to have a robust schema markup. Our team will implement structured data to improve your products' visibility in search engine results pages and increase the likelihood of clicks.</p>
+	<p>Additionally, we understand that SEO is not a one-time task but a continual process. We provide ongoing technical SEO maintenance and updates as search engine algorithms evolve and your business grows.</p>
+	<p>At XSTREAM INFOTECH, we firmly believe that strong technical SEO forms the foundation of your site’s success, and we're committed to achieving this for you. So yes, you can absolutely count on us to make the necessary technical changes to enhance your website's SEO.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				 <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSeven">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+						<b itemprop="name"><span class="sr">07.</span>  Does XSTREAM INFOTECH provide content creation as part of our ecommerce SEO solutions?</b>
+					  </button>
+					</h2>
+					<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Content creation is a crucial part of XSTREAM INFOTECH’s holistic ecommerce SEO strategy. We believe that successful SEO isn't just about optimising keywords, but also involves creating high-quality, engaging content that speaks directly to your audience's needs and interests, thus driving organic traffic and improving conversions.</p>
+	<p>As a leading ecommerce SEO agency in Melbourne, we work closely with our clients to understand their brand, products, and target audience. This in-depth understanding enables us to create a tailored content strategy that aligns with your brand's personality and goals, and resonates with your audience.</p>
+	<p>Our content creation services encompass various formats, including but not limited to product descriptions, blog posts, category page content, and buyer guides. These are optimised not only for search engines but also for users. We leverage data-driven insights to create content that captures attention, provides value, and inspires action.</p>
+	<p>You can also count on us to stay on top of evolving SEO trends, adapting your content strategy as needed to respond to changes in search engine algorithms. We regularly monitor and analyse content performance to identify areas for improvement, ensuring your content consistently achieves its objectives.</p>
+	<p>Remember, effective SEO requires time and commitment, and content is no exception. Rest assured, we're dedicated to investing the necessary time and resources into your project to help your ecommerce business reach its full online potential.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

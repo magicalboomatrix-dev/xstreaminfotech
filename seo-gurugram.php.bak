@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SEO Melbourne</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Melbourne’s leading</span>  <br>
+			<span>SEO agency. We live</span>  <br>
+			<span>and breathe digital.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>SEO is a core service at XSTREAM INFOTECH, and we stand by our work. Working from deep technical expertise, our team <br> values honesty and clarity. We’ll never promise results we can’t deliver.
+</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Award-Winning MELBOURNE Seo</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>We offer bespoke solutions to your SEO requirements, whether as part of a complete digital marketing plan or to complement and work closely with your in-house department. We don’t do set-and-forget solutions; instead, each campaign is tailored to your industry and long-term ambitions.</p>					 
+					 
+					 <h2>An experienced, expert Melbourne agency to bring your SEO to life</h2>
+					 <p>Our team is hand-picked to ensure that we have the best people working on your websites. Each member of our team brings a comprehensive set of search engine optimisation and digital marketing skills, with the experience and ingenuity to develop and execute campaigns in any industry. We aren’t a huge corporation with hundreds of disengaged employees clocking in and out every day. Our reputation and success depends on your business flourishing too. When you work with XSTREAM INFOTECH, you aren’t hiring a bunch of clock watchers and cheque cashers – you’re teaming up with a driven Melbourne based SEO agency committed to getting the best value for your money.</p>
+					
+					<h2>The collaborative approach to SEO</h2>
+                        <p>We view our clients as partners, not just customers. We take a collaborative approach to every SEO and digital marketing project we take on. Your input and feedback are invaluable to us, helping us tailor our strategies to align with your unique goals and challenges. Whether you’re a small startup or a large corporation, we’ll work closely with you to achieve tangible results that drive your business forward.</p>
+						
+                     <div class="hide_text">
+					 <h2>A Melbourne-based and Australian-owned SEO agency</h2>
+                        <p>Digital marketing and SEO is different all around the world. What works in one market won’t have the same impact in another country, which makes it vital for Australian businesses to pair with a team that can deliver locally relevant work for small businesses, while still maintaining an international outlook for larger businesses and those with ambitions to expand into other markets.</p>
+						<p>XSTREAM INFOTECH takes a 360-degree view of your SEO, providing a comprehensive service that doesn’t leave anything to chance. We focus on building solid strategies exclusively for your company. Our experienced marketing strategists include technical experts, content writers, web and graphic designers, and all the people you’ll need to push your company forward.</p>
+						
+						<h2>We’ll start by conducting a thorough SEO audit of your website to see <br> where things stand—from there, we can begin optimising and refining <br> your entire digital presence</h2>
+						
+						<p>XSTREAM INFOTECH doesn’t focus on making ranking guarantees. Instead, we offer a long-term solution that will continue to support and improve your business, rather than focusing on early big results that will fade quickly. If you have a Google penalty on your site, our team can nurse your site back to health. We’ll manage the interaction with Google, remove or disavow all the offending content and links, then replenish it with high-quality content, optimising the site structure for better performance. Book a free consult to start a conversation now.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Not based in Melbourne? No problem. <br> We offer bespoke search <br> optimisation agency services <br> all over Australia.</h2>
+			<p>Regardless of the size of your business or the industry you work in, we can offer you a tailored SEO agency service to match your requirements. If you’re ready to take your business and web presence to the next level, get in touch with us today. Speak with one of our team by calling <a href="tel:1300%20127%20361">1300 127 361</a>, or use our <a href="contact.php">contact form</a> and we will get back to you as soon as we can.</p>
+			<p>We service all locations including <a href="#">Sydney</a>, <a href="#">Brisbane</a>, <a href="#">Adelaide</a> and <a href="#">Perth</a>.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">What is on-page SEO? Why is it important?</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>On-page SEO centres on refining elements within your website’s control. It’s a pivotal facet of overall website optimisation, encompassing strategies that directly impact user experience and search engine rankings. Key pillars of on-page SEO strategy include content quality and relevance—crafting engaging, informative, and audience-centric content. </p>
+					 
+                     <p>Keyword optimisation entails integrating relevant keywords naturally to avoid over optimisation, while HTML tag optimisation employs tags like titles, meta descriptions, headers, and alt text to clarify content structure to search engines. Site architecture and navigation, a crucial element, demand a well-structured site, clean URLs, and responsive design.</p>
+					 
+					 <p>Sound complicated? That’s because it is. For more information, browse our SEO FAQs below, or contact us now for a detailed discussion.  </p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section" style="margin-bottom:0">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>Working with you as well as working for you</h2>
+			<div class="elementor-widget-container">
+				<p>At XSTREAM INFOTECH, our client-centric approach is what sets us apart. As a fast moving SEO agency in Melbourne, we’re not just about growth; we’re about growing with you. Our team is fresh, vibrant, and hungry for success — not just ours, but yours too. We’re results-oriented, diving deep into the nuances of digital marketing to craft strategies that resonate with your unique business needs.
+				</p>
+				<p>
+					We’re here to revolutionise your digital presence, ensuring that every step we take together is one step closer to your business reaching and exceeding its goals.
+				</p>
+				
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/SEO-Agency1.jpg" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> How will you measure the success of your SEO strategy?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+						<ul class="ul-circle">
+							<li>
+								<strong>Keyword rankings:</strong> We track the performance of targeted keywords in search engine rankings. If our SEO strategy is successful, you'll see your website moving up the ranks for these key search terms over time.
+							</li>
+							<li>
+								<strong>Organic search traffic:</strong> The primary measure of SEO success is an increase in organic search traffic, which refers to visitors who reach your website through search engine results rather than through paid advertising. We use sophisticated analytics tools to track this data.
+							</li>
+							<li>
+								<strong>Bounce rate:</strong> We measure the percentage of visitors who leave your website after viewing just one page. If the bounce rate is high, it can indicate that the content is not relevant or engaging to the visitors. SEO success should ideally reduce this rate.
+							</li>
+							<li>
+								<strong>Conversion rate:</strong> SEO isn't just about driving more traffic to your site, but also about increasing the percentage of visitors who take a desired action, whether that's making a purchase, filling out a form, or signing up for a newsletter. This is called the conversion rate, and it's a key indicator of SEO success.
+							</li>
+							<li>
+								<strong>Page loading time:</strong> Website speed is a critical factor in SEO. Thus, we measure the load time of your website and work to reduce it, offering a better user experience and helping your site rank higher in search results.
+							</li>
+							<li>
+								<strong>Backlinks:</strong>
+								<span style="font-weight: 400;">The nature of the links pointing to your site</span> can significantly impact your ranking performance—we monitor the number of backlinks and their quality.
+							</li>
+							<li>
+								<strong>User engagement metrics:</strong> We assess user engagement, considering metrics like pages per session and average session duration. These indicate how well your audience finds your content valuable.
+							</li>
+							<li>
+								<strong>Local visibility:</strong> If your business has a local component, we will also measure your visibility in local search results, tracking how well you're doing in Google's local listings.
+							</li>
+							<li>
+								<strong>Mobile responsiveness:</strong> Mobile-friendliness is a significant factor in Google's ranking algorithm. Mindful of the ever-increasing use of smartphones for search, we ensure your site is mobile-ready.
+							</li>
+							<li>
+								<strong>ROI:</strong> Ultimately, the best measure of SEO success is return on investment. We keep a close eye on your ROI, ensuring that your investment in SEO is delivering a profitable return.
+							</li>
+						</ul>
+						<p>We continuously monitor these metrics and adjust our strategies based on what the data is telling us. Our focus is always on delivering meaningful results that contribute to your business goals.</p>
+					</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span>  What SEO tools do you use?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>As a leading search engine optimisation agency in Melbourne, we utilise a suite of SEO tools to conduct comprehensive analysis, planning, and execution for our campaigns. Here are some of the key tools we use:</p>
+							<ul class="ul-circle">
+								<li>
+									<strong>Ahrefs:</strong> A powerful tool used for backlink analysis, competitor analysis, keyword research, and tracking keyword rankings.
+								</li>
+								<li>
+									<strong>Google Analytics 4 (GA4):</strong> An indispensable tool for understanding website traffic, user behaviour, and conversions. We also use it to gauge the effectiveness of our SEO strategies over time.
+								</li>
+								<li>
+									<strong>Google Search Console:</strong> We use this tool to understand how Google's search bots are interacting with your website, to identify crawl issues, and to submit sitemaps for indexing.
+								</li>
+								<li>
+									<strong>Google My Business:</strong> A crucial tool for managing your online presence across Google, including Search and Maps. We can help you leverage this platform to its full potential, so that you can engage with customers, optimise your business profile, and gather insight about how people find your local business online.
+								</li>
+								<li>
+									<strong>Screaming Frog SEO Spider:</strong> This is a website crawling tool that we use for technical SEO audits. It helps us to identify issues like broken links, duplicate content, and other potential problems.
+								</li>
+							</ul>
+							<p>Each of these tools is applied in different ways throughout the various phases of an SEO campaign, including the initial audit, strategy development, execution, and ongoing optimisation and reporting. It's our combined use of these tools, backed by our expertise in SEO strategy and execution, that allows us to drive successful results for our clients.</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span>   Will we have access to our Analytics account?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Absolutely. As your digital marketing partner, our main goal is to ensure that you are empowered and informed at every step of your campaign's progression. Transparency is a crucial pillar of our business—so we insist that all our clients have direct access to any tracking or ad platforms we may use.</p>
+	<p>Here's what you can expect:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Complete ownership:</strong> You will own your accounts, not us. It's your business, and the data generated belongs to you.
+		</li>
+		<li>
+			<strong>Full access:</strong> You will have 24/7 access to your data. This means you can check the performance of your campaigns, audience metrics, traffic sources, and more, at any time.
+		</li>
+		<li>
+			<strong>Regular reporting:</strong> We'll provide comprehensive reports on a regular basis—typically, monthly, or more frequently if required. These reports will highlight the key metrics, trends, and our interpretation of the data, to help you understand what is working and what can be improved.
+		</li>
+		<li>
+			<strong>Collaborative analytics:</strong> We believe in working collaboratively with our clients. So, we'll be more than happy to walk you through your data, provide insights, and discuss strategies during regular review meetings.
+		</li>
+		<li>
+			<strong>Continual education:</strong> As part of our service, we'll help you understand the data. This might include coaching on how to read your Google Analytics and Google Ads data, the meanings behind various metrics, and how to tie those into your overall business objectives.
+		</li>
+		<li>
+			<strong>Data-driven decision making:</strong> While you will always have access to your data, our team will use this data to drive the strategy. This means making adjustments to campaigns, informing our recommendations, and ultimately, driving towards the best ROI possible for your business.
+		</li>
+	</ul>
+	<p>At XSTREAM INFOTECH, we view our clients as partners, and a partnership only works with trust and transparency. We look forward to working collaboratively with you to achieve your business goals.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span>   What is off-page SEO?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>The counterpart to on-page SEO, off-page SEO refers to actions taken outside of your own website to impact your rankings within search engine results pages (SERPs). Off-page SEO is a crucial part of any comprehensive SEO strategy, extending beyond the confines of your website to build its reputation and authority in the wider digital world.</p>
+	<p>This section of SEO is primarily concerned with establishing and nurturing the presence and perception of your website in the online community. Pillars of a good off-page strategy might include any or all of the following.</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Content marketing:</strong> Contributing high-quality content to other reputable sites can be a powerful off-page SEO technique. This not only exposes your brand to a broader audience but also allows you to gain valuable backlinks. It's essential to focus on creating valuable, informative content that aligns with the interests of the audience and the standards of the host site.
+		</li>
+		<li>
+			<strong>Social media engagement:</strong> While social media signals are not a direct ranking factor in most search engines, they play a crucial role in off-page SEO. Active engagement on social media platforms can increase your content's reach and visibility, leading to more traffic to your site and potentially more backlinks. It's about creating shareable content and fostering a community around your brand.
+		</li>
+		<li>
+			<strong>Backlink strategy.</strong> A cornerstone of off-page SEO is building a strong profile of backlinks. These are links from other websites that direct users to your site. Each backlink acts as a 'vote of confidence' from one site to another, signaling to search engines that your content is valuable and trustworthy. However, it's not just about quantity; the quality of backlinks matters significantly. Links from reputable and relevant sites carry more weight and contribute more positively to your site's SEO.
+		</li>
+		<li>
+			<strong>Online reputation management:</strong> How your brand is perceived online can significantly impact your SEO. This includes managing reviews and feedback across various platforms, including Google My Business, Yelp, and industry-specific review sites. Positive reviews can improve your brand's credibility and authority, contributing positively to your SEO efforts.
+		</li>
+		<li>
+			<strong>Local SEO tactics:</strong> For businesses with a physical presence, local SEO is a vital part of off-page optimisation. This includes optimising your Google My Business profile and getting listed in local directories. Local backlinks and reviews can significantly enhance your visibility in local search results.
+		</li>
+	</ul>
+	<p>Off-page SEO is designed to complement on-page SEO efforts and is essential for a well-rounded SEO strategy. This multi-faceted approach lets us ensure that your website not only appeals to search engines but also resonates with your audience, ultimately driving organic traffic and elevating your online presence.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span>   How long does it take to see results from an SEO campaign? </b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>
+		<span style="font-weight: 400;">There isn’t a hard-and-fast answer to this question. SEO represents a deliberate, long-term investment in your business’s marketing, and it tends to be about incremental gains over instant results. Variables like the general condition of your website, the industry you’re operating in, the competitive landscape, and the keywords targeted all come into play.&nbsp;</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">To figure out what needs to be done, we start with a comprehensive examination of your website. This audit informs all our later strategy and recommendations and includes a thorough scan for technical issues, a review of your content to ensure alignment with SEO best practices, a detailed competitor analysis, and thorough keyword research and selection.</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">After this phase is complete, the focus moves to an ongoing approach of monitoring and optimisation, including creation and fine-tuning of content, backlinking, and the ongoing application of technical SEO strategies.&nbsp;</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">Initially, you may see small boosts to your rankings and organic traffic, but it’s important not to judge the entire campaign on these initial indicators. The compounding and incremental nature of SEO often means that the true rewards come later.&nbsp;</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">To close the information gap while your campaign is running, XSTREAM INFOTECH provides regular, comprehensive reports containing key performance metrics and in-depth analysis. The data at the core of these reports is the same data we use to inform any fine-tuning to the campaign along with any recommendations we may have. As part of our commitment to transparency, we also run regular work-in-progress meetings, giving you an opportunity to discuss any aspects of the campaign.</span>
+	</p>
+	<p>
+		<span style="font-weight: 400;">SEO isn’t a quick fix—instead, it aims to provide results in the longer term, securing better visibility for your website, pulling in better-quality traffic, and driving increases to sales, leads, and any other core KPIs you may have.&nbsp;&nbsp;</span>
+	</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span>   Who will be working on our ongoing SEO project?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>When you work with XSTREAM INFOTECH, you're gaining a full team of dedicated, in-house digital marketing professionals for your business. This includes a dedicated account manager, SEO experts and content creators. We believe in the value of having an in-house Melbourne-based SEO team because it ensures a higher level of communication, faster response times, and a consistent, high-quality service.</p>
+	<p>We start by conducting a thorough audit of your website to understand your current performance. Then, we do in-depth keyword research, competitor analysis, and content strategy development. Our SEO experts will work on your on-page and off-page SEO, while our content team will create valuable, SEO-optimised content that not only ranks but also engages and converts your target audience.</p>
+	<p>At the same time, we ensure that your website is fast, secure, and mobile-friendly—all critical factors for SEO. Our team then monitor and measure your SEO performance and make data-driven decisions to continuously improve your rankings and online visibility.</p>
+	<p>While our preference is to do all of this in-house, there may be times when we might collaborate with trusted partners for very specialised tasks. However, you can rest assured that these partners are thoroughly vetted and have been proven to meet our high standards.</p>
+	<p>You will be kept in the loop at every stage, with regular updates and reports to make sure you know exactly how your SEO strategy is progressing. Our goal is to become an extension of your team, working closely alongside you to achieve your business objectives.</p>
+	<p>We believe in transparency, results, and long-term partnerships—our team is excited to work with you and help your business grow.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSeven">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+						<b itemprop="name"><span class="sr">07.</span>   Who will be working on our ongoing SEO project?</b>
+					  </button>
+					</h2>
+					<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>When you work with XSTREAM INFOTECH, you're gaining a full team of dedicated, in-house digital marketing professionals for your business. This includes a dedicated account manager, SEO experts and content creators. We believe in the value of having an in-house Melbourne-based SEO team because it ensures a higher level of communication, faster response times, and a consistent, high-quality service.</p>
+	<p>We start by conducting a thorough audit of your website to understand your current performance. Then, we do in-depth keyword research, competitor analysis, and content strategy development. Our SEO experts will work on your on-page and off-page SEO, while our content team will create valuable, SEO-optimised content that not only ranks but also engages and converts your target audience.</p>
+	<p>At the same time, we ensure that your website is fast, secure, and mobile-friendly—all critical factors for SEO. Our team then monitor and measure your SEO performance and make data-driven decisions to continuously improve your rankings and online visibility.</p>
+	<p>While our preference is to do all of this in-house, there may be times when we might collaborate with trusted partners for very specialised tasks. However, you can rest assured that these partners are thoroughly vetted and have been proven to meet our high standards.</p>
+	<p>You will be kept in the loop at every stage, with regular updates and reports to make sure you know exactly how your SEO strategy is progressing. Our goal is to become an extension of your team, working closely alongside you to achieve your business objectives.</p>
+	<p>We believe in transparency, results, and long-term partnerships—our team is excited to work with you and help your business grow.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SEO For The Travel &amp; Tourism Industry </title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header dark-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero dark-banner post-hero-section">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>SEO in the Travel <br> Industry: 7 Best Practice <br> Tips</span>  
+		
+			</h1>
+			</div>
+			<div class="info btm-info">
+				<div class="row">
+				<div class="col-sm-3 d-flex">
+				<span class="image"><img src="assets/images/evan-pavlidis-avatar.webp"></span>
+				<span class="info">
+				<p><span class="wh">David Pagotto</span></p>
+				<p>Founder & Managing Director</p>
+				</span>	
+				</div>
+				<div class="col-sm-2">
+				   <p><span class="wh">CATEGORY</span></p>
+					<p>SEO</p>	
+				</div>
+				<div class="col-sm-4">
+				   <p><span class="wh">DATE</span></p>
+					<p>9 January, 2019</p>	
+				</div>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	
+	<div class="why_chooseUs inner_why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h2>Helpful tips and strategies</h2>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section">                     
+                     <p><strong>This article has been written by John Rueth, the Co-Founder of Kapwa Marketing, a friend of XSTREAM INFOTECH and a true specialist in the field of travel industry marketing.</strong></p>
+					 <p>The e-travel industry is one of the most interesting but also most competitive markets in the online arena. Find out about our 7 best tips to get more relevant traffic, and ultimately more sales.</p>
+					
+					 <br><hr style="opacity: 1;"><br>
+					 
+					 <h2>How does your International SEO strategy look?</h2>
+					
+                    <p>For many tourism businesses, this is a very crucial question to answer: Which customers from which countries do I want to attract? Especially for hotels & resorts and inbound tour operators, the key target groups and their locations need to be clear right from the outset.</p>					
+					<p>Often times, modern websites need to be listed in several countries. For example: a tour operator in the Philippines wants their website to be found in Google US, Google AU, and in the Philippines. Instead of only trying to rank the root domain in different countries, it would make sense to create subfolders like https://kapwatravel.com/au/ or respective country coded subfolders.</p>
+					<p>A proper hreflang tag markup is essential in this context, and one of the best examples of a huge company that does it right is Airbnb. Check the correct implementation via free SEO tools like flang and aleyda.</p>
+					 <br><hr style="opacity: 1;"><br>
+					<h2>Are you targeting the right keywords?</h2>
+					<p>As discussed in this article, optimizing for (the wrong) keywords is old-fashioned. However, having a clear and defined strategy in place, will also lead to visible success. If you are starting as a boutique tour operator in Sri Lanka with the goal to rank for the keyword “Sri Lanka” in Google, then you need to rethink your approach.</p>
+					<p>Try to “find your niche in the niche” first and focus more on longtail keywords that oftentimes convert much better. Something like “private tours Sri Lanka” or “Sri Lanka Travel Package 14 days” might be a good start.</p>
+					<p>It is very important to understand the search intent of the user: which answer is she / he looking for, while typing in a certain keyword phrase? The answers given on the top the SERPs can give you a very good clue on what Google and their users expect to find. However, this regularly changes and needs to be monitored.</p>
+					<p>If you are able to give the right answer(s), then you will attract visitors that can become customers because they will find on your website what they were looking for.</p>
+					 <h2>Content Marketing is the new SEO</h2>
+					 <p>Many SEOs market themselves as content marketers nowadays but good SEO was always linked to good content. However, content marketing itself is more complex than ever and goes far beyond creating great text content.</p>
+					 <p>If content is king, then marketing is queen. This means to use all suitable channels to get the word out and spread your well researched content via Facebook, Instagram, LinkedIn, Twitter, and other channels. This is content per se and just another means of integrated communication.<p>
+					 <p>Old pages and articles on your website should be updated regularly, enriched with images and videos – and then shared again across your channels. Content Marketing does not mean to write tons of articles every month but making sure that your content is awesome and will get the attention of people you really want to reach.<p>
+					 <br><hr style="opacity: 1;"><br>
+					 <h2>Network with influencers / bloggers</h2>
+					 <p>Building good links means to actually reach out to other human beings. In the travel industry, there are many bloggers, vloggers, instagramers and other content creators that can become advocates for you. Genuinely add to their success, and you will be able to get into a synergetic relationship that will boost your business as well.<p>
+					 <p>There are also many organizations, travel associations, chambers of commerce etc. that you should get into – not only online but also in real life. Not to forget travel fairs that still play a very important role for tourism businesses.<p>
+					 <h2>Get inspired by competitors</h2>
+					 <p>Good SEO tools like ahrefs, sistrix and semrush will not only show you data about your own domain, but more importantly about the domains of your competitors. It is very important to monitor them as well on a regular basis, find keyword & content gaps and close them. Look at how they optimize and which keywords they use in their meta titles, in their headings, and in their ads.</p>
+					 <h2>Get Reviews</h2>
+					 <p>Make sure to collect as many good reviews as possible on Google, Facebook, Tripadvisor and other relevant platforms. Building trust is essential, especially when you want potential travelers to transfer thousands of dollars to you for a single trip. Since modern online travel agencies (OTAs) often times do not have the chance to speak with potential clients, they need to make sure to get as many authentic five star reviews as possible.<p>
+					 <p>Ask your happy customers for a review, ideally including a photo. Share your “little wins” across social media to make sure that other potential guests will read about them.<p>
+					 <br><hr style="opacity: 1;"><br>
+					 <h2>Know the Customer Journey</h2>
+					 <p>The customer journey of a modern internet user is rather complex. This is also true for travelers who use the internet for online bookings. Before engaging with a tour company they might have:<p>
+					 <ul class="ul-circle">
+						<li>seen inspiring pictures on 
+							<a href="facebook-marketing.php">Facebook</a> and 
+							<a href="instagram-marketing.php">Instagram</a>
+						</li>
+						<li>watched a video on 
+							<a href="youtube-marketing.php">YouTube</a>
+						</li>
+						<li>done some research on travel blogs</li>
+						<li>read some reviews on Google Maps</li>
+						<li>checked booking platforms for the best hotels</li>
+						<li>browsed tripadvisor for some more ideas</li>
+						<li>clicked on your 
+							<a href="google-ads.php">Google Ads</a> a few times
+						</li>
+						<li>hopefully found you via organic search.</li>
+					</ul>
+					 <p>Modern travel SEO needs to consider this, and with the right Google Analytics set-up, you will be able to find out more about conversion paths, assisted conversions and ways to improve your overall conversions.<p>
+					 <p>Also in the travel industry, there are many micro-conversions necessary that will lead up to a bigger lead or sale, and generating relevant traffic via search engines is only one strategy that needs to be complemented.<p>
+					 <p>Knowing about the customer journey and trying to understand how travelers make buying decisions will help you to create a stronger brand and more visibility across the relevant channels.
+
+<p>
+<br><hr style="opacity: 1;"><br>
+					<span class="d-flex">
+				    <p>SHARE THIS ON &nbsp;&nbsp; <ul class="list-inline">
+                     <li class="list-inline-item"><a href="#" style="color: #000;"><i class="ri-linkedin-fill"></i></a></li>
+                     <li class="list-inline-item"><a href="#" style="color: #000;"><i class="ri-facebook-fill"></i></a></li>
+                     <li class="list-inline-item"><a href="#" style="color: #000;"><i class="ri-instagram-line"></i></a></li>                     
+                  </ul></span></p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

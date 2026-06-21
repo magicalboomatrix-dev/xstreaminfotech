@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Seo Adelaide</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>An Adelaide SEO agency</span>  <br>
+			<span>to put your business</span> <br>
+			<span>on the map.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Need SEO for your business in Adelaide? Step into the world of tailored solutions with XSTREAM INFOTECH and get a <br> crafted, bespoke digital marketing strategy that suits your business.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<button class="header_btn1">Free audit</button>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Award-winning SEO, from Adelaide to the world</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>Whether you’re after a complete digital marketing plan, seeking to enhance your in-house efforts, or something else, our team will slot in alongside yours to make it happen, addressing key SEO nuances and long-term ambitions to suit your unique digital needs.</p>					 
+					 
+					 <p>The heart of our operation is our team of experts. Hand-picked for their exceptional skills, each team member brings comprehensive, specialist SEO and digital marketing expertise. As a young and growing agency, our success is intertwined with the flourishing of your business. We want your Adelaide-based business to grow, because we’re chasing the same thing. That means you’re partnering with a passionate Adelaide focused SEO agency committed to getting the best value for your investment.</p>	
+
+					 <p>At XSTREAM INFOTECH, we customise our strategies to fit any business, big or small. Whether you’re a global corporation, a local shop, or an online store, we have the skills to boost your online presence. Locally, we focus on improving your visibility in specific areas, using targeted tactics to reach customers nearby. This could be from Aldinga Beach to Salisbury and Elizabeth. For international clients, we create detailed SEO plans to tackle the challenges of global markets. And for e-commerce businesses, we use specialised SEO methods to increase traffic, conversions, and sales. We understand the unique needs of each industry and tailor our strategies to match your goals. With our comprehensive approach, we help Adelaide businesses thrive online, delivering real results that drive growth and success.</p>
+					
+                     <div class="hide_text">					                         											
+						<h2>Get in touch with the Adelaide SEO experts</h2>
+						
+						<p>Embark on your SEO journey with us, starting with a meticulous SEO audit that unveils the current landscape of your website. At XSTREAM INFOTECH, we steer clear of empty ranking guarantees. Instead, we offer a long-term solution designed to continuously support and improve your business, with the focus on sustained growth. Kickstart the conversation and book a discovery call now. Your digital transformation awaits.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>A team that integrates with <br> your Brisbane-based company</h2>
+			<p>As a young digital agency, we’re not just about growth; we’re about growing with you. Our results-oriented team delves into the intricacies of digital marketing, then crafts SEO strategies that align with your business needs.</p>
+			<p>Let’s embark on a journey to revolutionise your digital presence and propel your business towards and beyond its goals.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">HTTPS — does it relate to Adelaide SEO?</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>The adoption of HTTPS (Hypertext Transfer Protocol Secure) is more than just a technical checkbox for websites; it holds significant importance in the realm of SEO. HTTPS serves as a secure version of HTTP, encrypting data exchanged between a user’s browser and the website’s server. This encryption ensures a secure and private connection, safeguarding sensitive information from potential cyber threats and enhancing user trust. From an Adelaide SEO perspective, search engines, particularly Google, consider HTTPS as a positive ranking factor. </p>
+					 
+                     <p>Google has explicitly stated that it uses HTTPS as a signal in its ranking algorithm, giving secure websites a boost in search results. Implementing HTTPS not only aligns with best security practices but also enhances your site’s credibility and, ultimately, its search engine visibility. In a digital landscape where trust and user experience are paramount, the significance of HTTPS in SEO cannot be overstated — it’s a cornerstone for a secure and optimally performing online presence. </p>
+					 
+					 <p>For more on HTTPS and all other aspects of Adelaide focused SEO and strategy, book a discovery call with us now. </p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>The transparency Adelaide businesses deserve</h2>
+			<div class="elementor-widget-container">
+				<p>Is your Adelaide SEO agency telling the truth? At XSTREAM INFOTECH, transparency represents a cornerstone of our ethos. We believe in open communication and honesty at every stage of  partnership. From the initial consultation to ongoing campaign management, we provide full visibility into our processes, strategies, and results. </p>	
+				<p>Our clients have access to comprehensive reports and regular updates, empowering them to make informed decisions about their digital marketing efforts. With XSTREAM INFOTECH, you can trust that we’ll always be transparent, ensuring clarity, trust, and mutual success throughout our journey together.</p>
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/Brisbane-SEO-Agency1.jpg" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section" style="padding-top:0;">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> How frequently should website content be updated for optimal Adelaide SEO?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Optimising your website's content is an ongoing process rather than a one-time task. While there's no one-size-fits-all answer, a regular content update schedule is crucial for 
+									<span style="text-decoration: underline;">
+										<a href="#">optimal SEO</a>
+									</span>. 
+								</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Fresh, relevant content signals to search engines that your site is active and valuable to users. Aim for regular updates, whether it's weekly, bi-weekly, or monthly, based on your industry and audience engagement.</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> How do voice searches and digital assistants affect SEO strategies for Adelaide?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">The rise of voice searches, thanks to digital assistants like Siri and Alexa, has transformed the SEO landscape in Adelaide. </span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Voice searches tend to be conversational, impacting keyword usage, so optimising for long-tail keywords, natural language, and featured snippets becomes crucial—along with understanding user intent and providing concise, informative answers, key for SEO success in the age of voice search.</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>				  
+				  </div>
+				  				
+				  <div class="col-sm-6">
+				   <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span>  How can structured data enhance SEO performance?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Structured data, often implemented through Schema Markup, provides search engines with additional context about your content. This enhances the way search engines understand and present your information in results. </span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Rich snippets, like star ratings and product details, are possible with structured data, increasing visibility and click-through rates. Utilising structured data helps search engines deliver more relevant results to users.</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> What are the common challenges in executing an international SEO strategy?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Executing an 
+									<span style="text-decoration: underline;">
+										<a href="#">international SEO</a>
+									</span> strategy comes with unique challenges. Managing diverse languages, cultures, and search engine preferences requires a tailored approach. 
+								</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Localised keyword research, understanding regional search trends, and adapting content to different markets are crucial. Overcoming technical hurdles, such as hreflang tags for language targeting, and staying abreast of global SEO algorithm changes are essential for success.</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>				  				 
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

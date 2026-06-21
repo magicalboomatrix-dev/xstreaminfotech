@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+   <?php include "head.php" ?>
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Careers at SIXGUN</span>  <br>
+			</h1>
+			</div>
+			<div class="info">
+			<p>We’re always on the lookout for ambitious, experienced, and hard-working individuals who are passionate <br> about digital marketing. If you live and breathe SEO, are <br> enamoured by the power of social media, or are fascinated by how data can drive decision making, we want to hear from you.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<button class="header_btn1">Free audit</button>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Effective Local <br> Seo Near Me</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>We specialise in bringing local customers to local businesses, with targeted solutions to grow your client base and help the neighbourhoods in your area find the services they need. Many SEO agencies aim to rank phrases and words without any consideration for the health of your business itself. If all your website’s traffic is from 200km away, being on the front page of Google won’t help you as the owner-operator of a local building, plumbing, or cleaning business, or any business that depends on customers from your neighbourhood and its surrounding areas.</p>
+					 
+                     <p>Whether you’re just starting out and want to get a foothold in your local market before expanding and taking on the country or the world, or perhaps you want to maximise your impact and visibility in the surrounding suburbs—SIXGUN will design and execute a strategy to help you reach your business’s full potential.</p>
+					 
+					 <h2>Our local SEO approach</h2>
+					 <p>Beginning with a thorough understanding of your business, audience, and competitors, we conduct precise keyword research to pinpoint the phrases and terms relevant to your industry and locale, including emerging trends like voice search. We then optimise your Google My Business listing, fine-tune on-site SEO elements, curate locally-tailored content, cultivate local backlinks, ensure consistent citation across directories, and provide insightful analytics and reporting—all to fortify your presence in local searches and attract more customers from your community.</p>
+					 
+                     <div class="hide_text">
+                        <h2>A modern approach to local search engine optimisation that gets results for Melbourne-based businesses</h2>
+                        <p>At SIXGUN, our local SEO tactics are as much about growing your brand and its visibility within your area as they are about ranking on Google’s front page. This means we look at all the elements to create a successful strategy, including maps, Google My Business, and all the things you need to secure your online presence and deliver the best services to people who need them.</p>
+						
+                        <p>The SIXGUN approach to SEO—local, nationwide or international—is based on the same dedication to sustainability and long-term gain. We don’t just give your site a once-over and move on—we’re with you throughout your entire contract, making adjustments to your website, refining and improving it every step of the way.</p>
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Contact us now to get your local <br> SEO journey underway</h2>
+			<p>Become the business all the locals turn to, with SIXGUN. Call us on 1300 127 361 to speak with a friendly member of our team and we’ll be happy to provide all the answers you need.</p>
+			<p>Regardless of your industry, SIXGUN’s team of digital marketing experts can tailor a solution for your business. We’ve made it our mission to stay ahead of the competition and offer Melbourne’s most advanced and up-to-date search engine optimisation services, both for local results and international traffic. Discover more today and start your digital marketing journey with SIXGUN at the wheel.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <section class="blog-section">	
+		<div class="container">
+			<div class="top-title">OUR THINKING</div>
+			<div class="row">
+			<div class="col-sm-3">
+				<h2>Industry insights and tips</h2>
+				<div class="header_btn">
+				   <span>Learn More</span>
+				   <i class="ri-arrow-right-line"></i>
+				</div>
+			</div>
+			<div class="col-sm-9 pos">
+			<div class="righrbox">
+				<div class="swiper-container swiper-blog-slider container">
+				  <div class="swiper-wrapper">
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights1.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>Google Ads<span style="color:red;">]</span></h5>
+							<p class="people-position">Why It’s Worth Bidding on Branded Keywords in Google Ads</p>
+						</div>
+						</div>
+					 </div>	
+					<div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights2.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>SEO<span style="color:red;">]</span></h5>
+							<p class="people-position">Digital Marketing Strategies That Still Work In 2019 [Ultimate Guide]</p>
+						</div>
+						</div>
+					 </div>	
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights3.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>Email Marketing<span style="color:red;">]</span></h5>
+							<p class="people-position">Email Marketing Mistakes That You Must Avoid</p>
+						</div>
+						</div>
+					 </div>	
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights4.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading">Bloging</h5>
+							<p class="people-position">How to Effectively Grow Your Blog Following</p>
+						</div>
+						</div>
+					 </div>	
+				  </div>
+				  
+				</div> 
+				<div class="sol">
+					<div class="swiper-button-prev btn"></div>
+					<div class="swiper-button-next btn"></div>  
+				</div>
+			</div>
+			</div>
+			</div>
+		</div>
+	   </section>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Mastering Google My Business for local impact</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>In the realm of local SEO, mastering Google My Business (GMB) is paramount. Our technical expertise goes beyond traditional SEO tactics. We’ll ensure your GMB profile is optimised, offering accurate business information, engaging visuals, and strategic use of local keywords.</p>
+					 
+                     <p>This approach enhances your visibility in local searches, making your business easily discoverable by nearby customers. By incorporating maps and other essential elements, our modern local SEO tactics encompass the entire online landscape.</p>
+					 
+					 <p>Want to talk further? <a href="contact.php"><span style="font-weight: 400;">Get in touch.</span></a>. </p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>Driving local success</h2>
+			<div class="elementor-widget-container">
+				<p>
+					Partnering with SIXGUN means aligning with a dedicated team committed to local SEO excellence. Our team aims to operate as part of your business, going beyond typical agency-client interactions and operating as a supportive force in your business journey.
+				</p>
+				<p>
+					An award-winning local 
+					<a href="https://sixgun.com.au/seo/">SEO agency</a>, we value the significance of supporting local businesses. With a focus on sustainable strategies and long-term gains, we stand by your side, continuously refining and improving your online presence.
+				</p>
+				<p>SIXGUN can provide local 
+					<a href="https://sixgun.com.au/seo/">SEO services in Melbourne</a>, 
+					<a href="https://sixgun.com.au/seo-sydney/">Sydney</a>, 
+					<a href="https://sixgun.com.au/seo-brisbane/">Brisbane</a>,&nbsp;
+					<a href="https://sixgun.com.au/seo-adelaide/">Adelaide</a>, 
+					<a href="https://sixgun.com.au/seo-perth/">Perth</a>, and Australia wide.
+				</p>
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/SEO-Agency.webp" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> How do we manage client reporting?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span><p>At Xtream, we’re very proactive with reporting to our clients. From campaign traffic and session duration to conversion rates and typical return on ad spend, you can expect routine weekly or fortnightly calls from your dedicated Xtream Account Manager, who’ll run you through performance on key metrics and discuss campaign ideas.</p><p>Of course, this isn’t all you’ll hear from us. We’ll touch base on an ad-hoc basis as new developments emerge, new opportunities arise, and bold new ideas for your tailored digital marketing campaign blossom.</p><p>You will have access to our live reporting tool, which integrates with Google Analytics and other platforms, so you can access your data and results in real time.</p><p>As our client, you will receive a monthly report which dives into relevant data for your channel. An executive summary will also be provided—and we’re happy to work to any specific reporting needs that you may have, whether that be minimalistic, or as extensive as you require.</p><p>Lastly, our reports will always let you know what tasks have been completed in the past month and what tasks are coming up in the following month, so you have full visibility and transparency.</p></span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

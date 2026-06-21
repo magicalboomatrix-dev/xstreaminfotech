@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Insights</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Discovering the digital </span>  <br>
+			<span>universe: your guide to </span> <br> 
+			<span>mastering digital marketing</span>  
+			</h1>
+			</div>
+			<div class="info">
+			<p>Our insights aim to decode the complexities of the digital marketing landscape, sharing our expertise,<br>
+			passion, and in-depth knowledge in a manner that empowers your business to harness the power of the digital world.</p>		
+			</div>
+		</div>
+	</div>
+	
+	  
+
+<!-- Our_result_section start -->
+
+   <div class="Our_result_section  Our_insight_section">
+         <div class="container">
+               <div class="row">
+                     <div class="col-lg-4 col-md-12 col-sm-12">
+                           <div class="Our_result_left_section  Our_insights_left_section">
+                                <h2>Our insights</h2>
+                           </div>
+                     </div>
+                     <div class="col-lg-8 col-md-12 col-sm-12">
+                           <div class="Our_result_right_section Our_insight_right_section">
+                                 
+                                  <p>The goal behind these blog entries is to illuminate the path for businesses navigating the intricate maze of SEO, SMM, Google Analytics, and much more. Through each blog post, we aim to demystify these spheres, translating dense jargon into engaging, digestible writing.</p>
+                                   
+                                  <p>Whether you’re a seasoned marketer in search of fresh perspectives, or you’re new to the digital marketing world and just starting your journey, we hope you’ll find our posts insightful and beneficial.</p>
+
+
+                           </div>
+                     </div>
+               </div>
+         </div>
+   </div>
+
+
+<!-- Our_result_section end -->
+
+
+<!--Our_result_input_section start  -->
+
+        <div class="Our_result_input_section Our_insights_input_section">
+                   <div class="row">
+
+                         <div class="col-lg-7 col-md-12 col-sm-12">
+                             <div class="Our_result_input_box Our_insights_input_box ">
+                                  <input  type="text" placeholder="Looking for something?">
+
+                                   <div class="Our_result_input_redbox">
+                                         <span>go</span>
+                                   </div> 
+                              </div>
+                         </div>
+                         
+                         <div class="col-lg-5 col-md-12 col-sm-12">
+                             <div class="Our_result_input_box Our_insights_input_box">
+                                  <input  type="text" placeholder="Category">
+
+                                   <div class="Our_result_input_redbox Our_result_input_red_arrow">
+                                         <span><i class="ri-arrow-down-line"></i></span>
+                                   </div> 
+                              </div>
+                         </div>
+                         
+                   </div>
+
+                   <!--h5>21 RESULTS</h5-->
+        </div>
+
+
+<!--Our_result_input_section end  -->
+
+
+<!-- Our_result_show_secton start -->
+
+    <div class="Our_result_show_secton Our_insights_show_secton">
+
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <a href="getting-the-most-out-of-your-google-ads-performance-max-campaigns.php"><img src="assets/images/insights1.webp" alt=""></a>
+                 </div>
+                 <div class="Our_result_text Our_insights_result_text ">
+                      <h5><span>[</span>Google ADS<span>]</span></h5>
+                      <h4>Are you getting the most out of your Performance Max campaigns?</h4>
+                 </div>
+           </div>
+           
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <a href="seo-in-the-travel-industry-7-best-practice-tips.php"><img src="assets/images/SEO-the-Travel-Industry-7-Best-Practice-Tip-767x500.webp" alt=""> </a>
+                 </div>
+                 <div class="Our_result_text Our_insights_result_text">
+                      <h5><span>[</span>SEO<span>]</span></h5>
+                      <h4>SEO in the Travel Industry: 7 Best Practice Tips</h4>
+                 </div>
+           </div>
+		   
+           <div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <a href="crucial-b2b-strategies-for-australian-businesses.php"><img src="assets/images/b2b-marketing-strategies.webp" alt=""></a>
+                 </div>
+                 <div class="Our_result_text Our_insights_result_text">
+                      <h5><span>[</span>Marketing Strategy<span>]</span></h5>
+                      <h4>6 crucial B2B marketing strategies for Australian businesses in 2024</h4>
+                 </div>
+           </div>
+           
+           <!--div class="Our_result_box">
+                 <div class="Our_result_image">
+                     <img src="assets/images/insights8.webp" alt="">
+                 </div>
+                 <div class="Our_result_text Our_insights_result_text">
+                      <h5><span>[</span>seo<span>]</span></h5>
+                      <h4>A Powerful Duo for SEO: Content & Web Design – It Takes Two to Tango!</h4>
+                 </div>
+           </div-->
+           
+           
+    </div>
+
+    <div class="Our_result_btn Our_insights_result_btn">
+        <div class="load_more_btn">
+             <button>Load more</button>
+        </div>
+		
+		<button class="header_btn">
+				<span>Load more</span>
+                <i class="ri-arrow-right-line"></i>
+				</button>
+    </div>
+
+
+<!-- Our_result_show_secton end -->
+
+
+<!-- Our_result_show_secton end -->
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

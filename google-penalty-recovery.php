@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Google penalty recovery</title>
+    <?php include "head.php" ?>
+   </head> 
+   
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Google penalty recovery</span>  <br>
+			<span>from the Melbourne agency</span>  <br>
+			<span>with proven technical knowhow.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Review forums are filled with tales of woe from business owners who have been stung by low-quality SEO <br> companies looking to make fast money. We can help you get back on track.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<button class="header_btn1">Free audit</button>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">We can help</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>The last decade has seen search engine optimisation grow from a niche industry to a standard marketing function. Where it was once considered the art of ‘beating Google’, it has now become simply a way of optimising your site to give it the best chance of ranking on search engines. The tactics from the wild west days of SEO no longer work, and are more likely to result in a penalty that will seriously impact your site’s visibility and likelihood of being found.</p>					 
+					 
+					 <h2>If you’ve been hit with a Google penalty and your site is sinking, don’t despair. We can help.</h2>
+					 <p>At XSTREAM INFOTECH, we’ve seen it all. Our team has been in the industry for many years—we’ve witnessed the growth and evolution of SEO, the attempts of unscrupulous agencies to make as much money as they can for as little effort as possible.</p>
+
+					  <p>This experience means we understand that a Google penalty isn’t something that’s simply shrugged off. Your business name and brand image depend on people being able to find your site. You could always change your domain name and start again, but make sure you talk to us before taking such drastic action.</p>
+					  
+					  <p>If your site has been hit with a Google penalty, all is not lost. Our skilled technicians can help get your domain’s reputation back on track, bringing the experience and technical expertise to help you liaise with Google to reverse the penalty and begin the process of undoing the damage.</p>
+					
+                     <div class="hide_text">	
+						<h2>A Google penalty doesn’t mean that all is lost—get help from Melbourne’s #1 Google penalty recovery agency</h2>
+                        <p>A Google penalty is often the result of dated SEO tactics. As Google’s search system has evolved, these techniques have lost almost all their currency and power. Google sees these as attempts to get around their checks and balances that ensure only the most relevant sites are shown in response to user queries. People forget that Google is a business; it’s not a democratic ranking system. The best way to make sure your site is ranking well is to make your website the best it can be—we can help with this.</p>
+						
+						
+						<p>Once we’ve reversed a penalty, we then implement a solid SEO campaign, helping get your business’s site back on the map.</p>
+						
+						
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	  <!-- team_section start -->
+      <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid" >
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Speak to our team today to <br> reverse a Google penalty</h2>
+			<p>Discover more about how XSTREAM INFOTECH can get your site back on track. Call us today on 1300 127 361 to speak with one of our team and we’ll be happy to provide all the information you need. We have made it our mission to provide powerful SEO that doesn’t compromise your brand or website, and offers long term results for continued success. You can also leave your details in our contact form and we will get back to you as soon as we can.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+      <!-- team_section end -->
+	  
+	  <section class="blog-section">	
+		<div class="container">
+			<div class="top-title">OUR THINKING</div>
+			<div class="row">
+			<div class="col-sm-3">
+				<h2>Industry insights and tips</h2>
+				<div class="header_btn">
+				   <span>Learn More</span>
+				   <i class="ri-arrow-right-line"></i>
+				</div>
+			</div>
+			<div class="col-sm-9 pos">
+			<div class="righrbox">
+				<div class="swiper-container swiper-blog-slider container">
+				  <div class="swiper-wrapper">
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights1.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>Google Ads<span style="color:red;">]</span></h5>
+							<p class="people-position">Why It’s Worth Bidding on Branded Keywords in Google Ads</p>
+						</div>
+						</div>
+					 </div>	
+					<div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights2.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>SEO<span style="color:red;">]</span></h5>
+							<p class="people-position">Digital Marketing Strategies That Still Work In 2019 [Ultimate Guide]</p>
+						</div>
+						</div>
+					 </div>	
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights3.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading"><span style="color:red;">[</span>Email Marketing<span style="color:red;">]</span></h5>
+							<p class="people-position">Email Marketing Mistakes That You Must Avoid</p>
+						</div>
+						</div>
+					 </div>	
+					 <div class="swiper-slide">
+						<div class="box text-left">
+						<div class="image">
+						<img src="assets/images/insights4.webp" alt="" class="" />
+						</div>
+						<div class="info">
+							<h5 class="people-heading">Bloging</h5>
+							<p class="people-position">How to Effectively Grow Your Blog Following</p>
+						</div>
+						</div>
+					 </div>	
+				  </div>
+				  
+				</div> 
+				<div class="sol">
+					<div class="swiper-button-prev btn"></div>
+					<div class="swiper-button-next btn"></div>  
+				</div>
+			</div>
+			</div>
+			</div>
+		</div>
+	   </section>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span>  What types of Google penalties exist?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>There are several types of penalties that Google can impose, usually as a consequence of violating its Webmaster Guidelines. Here are the most common ones:</p>
+	<p>Manual action penalties: These are manually applied by a member of Google's webspam team. If your site receives a manual action, you’ll be notified through Google Search Console. The most common manual actions are:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Pure spam:</strong> This is issued when Google determines that your website is using aggressive spam techniques, such as automatically generated content, cloaking, or scraped content.
+		</li>
+		<li>
+			<strong>User-generated spam:</strong> This action is taken when the user-generated content on your site, such as blog comments, forum posts, or guestbook signatures, is deemed as spam.
+		</li>
+		<li>
+			<strong>Unnatural links to your site:</strong> If your site appears to be part of a link scheme or if it seems like you've generated low quality links pointing to your site, you could receive this penalty.
+		</li>
+		<li>
+			<strong>Unnatural links from your site:</strong> If you're linking out to other websites in a way that looks like a link scheme, this penalty can be imposed.
+		</li>
+		<li>
+			<strong>Thin content with little or no added value: </strong>If your site contains a lot of content that doesn't provide much value to users (like auto-generated content or doorway pages), you could receive this penalty.
+		</li>
+	</ul>
+	<p>Algorithmic penalties: These are automated penalties that happen when Google updates its algorithms. Unlike manual actions, you don't receive a notification when an algorithmic penalty is imposed. The best defence against penalties is a solid SEO strategy. This includes producing high-quality, valuable content for users, maintaining a natural link profile, ensuring a good user experience, and staying updated with Google's latest algorithm changes.</p>
+	<p>As a leading Google penalty recovery assistance agency in Melbourne, we continuously monitor our clients' websites for any signals of a potential penalty and take immediate action if anything seems amiss.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> How can you tell whether you’ve been penalised by Google?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>It's important to understand that Google's algorithms are complex, and the reasons why a website might experience a drop in rankings or traffic can be multifarious. However, there are certain telltale signs of a Google penalty. Here's how we could help you figure out if you've been penalised by Google:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Sudden drop in organic traffic:</strong> We'll review your Google Analytics data. A significant and sudden drop in organic traffic can be a sign of a penalty, especially if it coincides with a known update to Google's algorithms.
+		</li>
+		<li>
+			<strong>Manual action report in Google Search Console:</strong> Google sends messages to site owners about penalties via the Search Console. If your site has been manually penalised, a manual action report will be available in the Search Console.
+		</li>
+		<li>
+			<strong>Drop in keyword rankings:</strong> We use various SEO tools to monitor your keyword rankings. A sudden drop in rankings for a broad range of keywords may indicate a penalty.
+		</li>
+		<li>
+			<strong>De-indexing:</strong> In extreme cases, Google might remove a site or specific pages entirely from its index. If your website does not show up at all in Google's search results, this might be the case.
+		</li>
+		<li>
+			<strong>Monitor algorithm updates:</strong> Google regularly updates its algorithms to provide the most relevant search results. We constantly monitor these updates and cross-check them with any noticeable drop in your site performance. If a performance drop aligns with an update, it might suggest that your website was penalised due to the algorithm change.
+		</li>
+	</ul>
+	<p>Once we identify whether a penalty has occurred, we can determine the best path for recovery. This could involve cleaning up low-quality content, fixing technical SEO issues, or improving the overall user experience on your site. Rest assured, our team has a wealth of experience in successfully resolving Google penalties, and we'll leverage that expertise to bring your website back to optimal performance.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span>  What is XSTREAM INFOTECH’s experience with Google penalty recovery?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Over the years, we've had significant experience with Google penalty recovery. Our team’s experience extends across many different penalty types, from those related to unnatural links to pure spam. We've dealt with a broad range of issues such as thin content, keyword stuffing, cloaking, and schema violations (to name a few).</p>
+	<p>Once we've identified the root cause of the penalty, we put together a detailed action plan. For link-related penalties, we carry out an exhaustive link audit and then proceed with a removal and disavow process. If the penalty is related to content or on-site issues, we ensure those areas are a focus.</p>
+	<p>Post-recovery, we monitor the website closely to ensure that the issues do not reoccur, and work continuously on the site's SEO to enhance its organic search performance.</p>
+	<p>To ensure transparency, we maintain clear communication with our clients throughout the process, keeping them updated about what steps we're taking, why we're taking them, and how these steps are helping.</p>
+	<p>Over the years, we've not only helped our clients recover from Google penalties but also educated them about the best practices to prevent such penalties in the future. XSTREAM INFOTECH’s approach is not just about recovery, but about building a strong, sustainable SEO strategy to deliver long term results.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+	
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span>  How long does the Google penalty recovery process usually take?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>The timeline for recovering from a Google penalty is not one-size-fits-all, and it depends greatly on the nature and severity of the penalty, your site's historical performance, the steps we take to correct the issues, and Google's response times. However, once we've identified the problem and implemented the necessary changes, it typically takes anywhere from a few weeks to several months for Google to recognise those changes and lift the penalty.</p>
+	<p>In cases of manual penalties where Google has identified and communicated the issue, the recovery process can be faster, as we have a clear understanding of what needs to be rectified. Once the corrections are made and a reconsideration request is filed, Google usually responds within a few weeks. For algorithmic penalties, the timeline can be longer and less predictable as these are dependent on Google's algorithm updates, which could occur infrequently.</p>
+	<p>While we aim for the most expedient resolution possible, our primary focus is on thoroughness and quality, to ensure that your site not only recovers from the penalty but is also set up for long-term, sustainable success.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span>  How can I avoid Google penalties in the future?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Here's how we'll ensure that your website doesn't face any Google penalties in the future:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Ethical SEO practices:</strong> This includes making pages primarily for users, not for search engines, avoiding tricks designed to create short-term improvements in search engine rankings, and ensuring that your website is a valuable web resource.
+		</li>
+		<li>
+			<strong>High-quality content:</strong> Content is king. We produce valuable, unique, and engaging content that will keep users on the site and reduce bounce rates. We avoid thin or duplicated content, which can attract Google penalties.
+		</li>
+		<li>
+			<strong>Responsive web design:</strong> A poor mobile experience can lead to a penalty. We prioritise mobile-friendly design to ensure a quality experience across all devices.
+		</li>
+		<li>
+			<strong>Regular audits:</strong> We carry out regular SEO audits to identify any potential issues before they attract penalties.
+		</li>
+		<li>
+			<strong>Staying updated:</strong> Google’s algorithm updates frequently. We ensure that we are updated with all the changes and adjust our strategies accordingly to prevent penalties.
+		</li>
+		<li>
+			<strong>Page speed optimisation:</strong> We prioritise page speed and website performance to ensure a smooth user experience.
+		</li>
+		<li>
+			<strong>Secure website:</strong> We'll make sure your website is safe and secure (HTTPS) to protect user data.
+		</li>
+		<li>
+			<strong>Schema implementation:</strong> We follow proper schema markup practices to avoid any structured data penalties.
+		</li>
+		<li>
+			<strong>Transparency:</strong> Google appreciates transparency, so we will ensure to not hide or manipulate information that is presented to users.
+		</li>
+	</ul>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> Can XSTREAM INFOTECH guarantee recovery from a Google penalty?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Google penalties can be disruptive, but they're not insurmountable.</p>
+	<p>While no agency can guarantee Google penalty recovery assistance, recovery times or results due to the complex nature of Google's algorithms and policies, our team has a strong track record of helping businesses recover from Google penalties. We've developed a thorough process which involves identifying the cause of the penalty, taking necessary corrective action, and then submitting a comprehensive reconsideration request to Google.</p>
+	<p>Our expertise in technical SEO, content management, and link building also means we're able to address the most common reasons for these penalties. We also provide clear, regular updates to keep you informed about our progress.</p>
+	<p>What sets XSTREAM INFOTECH apart is our commitment to not only resolving the immediate issue but also ensuring long-term resilience. We'll work with you to build a solid SEO strategy that minimises the risk of future penalties. However, it’s important to understand that this process requires time and cooperation, as SEO practices are a long-term commitment, not a one-time fix.</p>
+	<p>In the end, our goal is not just to get you out of a penalty but also to set you up for sustainable, organic growth. We'd love to discuss your specific situation in more detail to outline a potential recovery strategy.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

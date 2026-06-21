@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Google Analytics</title>
+    <?php include "head.php" ?>
+   </head> 
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>Content and copywriting</span>  <br>
+			<span>services for Gurugram</span>  <br>
+			<span>businesses.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Lots of people will tell you content is king. But few take the time to really value it. Based in Gurugram, we offer <br> 
+			a robust suite of content writing and content marketing services to businesses operating in sectors such as <br> 
+			IT, procurement, allied health, insurance, tech, and more.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Content Writing Done Well</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>Good web copy is like a digital handshake between your business and your customers. It’s how you introduce yourself, share what makes you special, and convince visitors to stick around. Plus, it’s not just about sounding good — it’s about showing up where it matters most, like in search results. When your copy includes the right keywords and phrases, it helps boost your website’s visibility and attract more potential customers. </p>
+					
+					 <p>But it’s not just about getting noticed; it’s about keeping people interested. Compelling copy grabs attention, keeps visitors engaged, and encourages them to take action, whether it’s making a purchase, signing up for a newsletter, or getting in touch. Ultimately, great website copy builds trust and credibility, showing your audience that you’re a reliable source worth paying attention to. </p>
+					 
+					 <h2>SEO copywriting services in Gurugram</h2>
+					 
+					 <p>SEO content writing is an important part of the overall path to online visibility. At XSTREAM INFOTECH, our Gurugram-based team not only values great content but understands its pivotal role in SEO. We offer specialised SEO copywriting services to Gurugram businesses, ensuring that your online presence aligns with search engine algorithms. Our writers seamlessly integrate keywords and strategic content, enhancing your website’s ranking and driving targeted organic traffic. From crafting compelling product descriptions to optimising landing pages, our SEO copywriting services are tailored to engage, inform, and convert your audience as effectively as possible.</p>
+					  					 
+                     <div class="hide_text">	
+						<h2>Learning centres, blog writing and content marketing</h2>
+                        <p>A valuable source of industry knowledge, resource hubs can help establish you as the go-to destination for industry insights, building trust and recognition in your sector.   </p>
+						<p>Our expertise extends to creating rich and informative thought leadership style articles for your business, filled with valuable content meticulously crafted to address the queries and concerns of your audience. This not only positions your brand as an industry authority but also drives organic traffic to your site.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study1.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+	   
+	  <?php include 'team-slider.php'?>
+	  
+	 <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid">
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Let’s talk about your copywriting project</h2>
+			<p>As part of our dedication to seamless integration with client goals, our team dedicates itself to your success, maintaining the same high standards for your projects as we do for our own.</p>
+			<p>Get in touch on 1300 127 361 or share your thoughts via our contact form — let’s start a conversation.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Need copy editing and proofreading in Gurugram?</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">				     
+                     <p>For businesses seeking to ensure that their content is not only engaging but also error-free, we offer high-quality editing and proofreading services. Our meticulous attention to detail guarantees that your content is polished, professional, and free from grammatical errors or typos.</p>
+					 
+                     <p>We take pride in ensuring that your messaging is clear, concise, and flawless, leaving a lasting impression on your audience.</p>
+					 
+					 <p>Got a question? Speak with our team now. </p>
+					 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+		 <div class="col-sm-6">
+		 <div class="info">
+            <h2>We care and deliver more</h2>
+			<div class="elementor-widget-container">
+				<p>Aiming to go beyond typical agency-client dynamics, we prioritise transparency and open communication, ensuring your budget is well-spent. Our ethos revolves around prompt, responsive communication to support your business whenever you need us.</p>
+				<p>Our goal is not just to deliver services, but to genuinely invest in achieving the best results for your business. Transparency and honesty sits at the heart of everything we do.
+				</p>				
+			</div>
+         </div>
+         </div>
+		 <div class="col-sm-6">
+            <img src="assets/images/Google-Ads-Agency.webp" alt="" class="img-fluid" >
+         </div>
+         </div>
+         </div>
+      </div>
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span>  What’s your position on AI writing tools? Do you use them? </b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">We use a range of AI tools for generating ideas, brainstorming, and other content creation tasks. Our current position is that mindful and careful use of these tools is a net positive. Although generative AI is a fast-developing field with many potential pitfalls, we see major promise in the cooperative-style approach—where AI provides an early structural layer that is then fleshed out and developed further by an expert writer. Leaning on generative AI too heavily in the writing process can lead to plenty of negative outcomes, including factual inaccuracies, mismatches in tone, accidental duplication of content (for example, from elsewhere on a website), and more.</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">We think that generative AI tools in their current state are best viewed as a powerful tool to increase the productivity and creativity of human writers. </span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Output from generative AI still depends on the ability of human writers to assess the quality of the content and make changes and adjustments as necessary. This means that it’s generally unwise to skimp on content by using free AI tools without having it reviewed by a professional writer. You wouldn’t trust generative AI to generate code for your new website if you were unable to review it yourself. So why trust it to generate content?&nbsp;</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span>What is ‘microcopy’? Why is it important?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Microcopy is the small snippets of text found throughout a website or digital product that serve specific functions, such as guiding users, providing instructions, or offering reassurance. These tiny snippets of text can include things like button labels, error messages, tooltips, form field placeholders, and confirmation messages. </span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">While each piece of microcopy may be short, its impact on user experience and interaction can be significant, especially for ecommerce and related fields. Here are some reasons microcopy is important:</span>
+							</p>
+							<ul class="ul-circle">
+								<li style="font-weight: 400;" aria-level="1">
+									<span style="font-weight: 400;">
+										<strong>Clarity.</strong> Microcopy helps users navigate smoothly through websites and apps. When it's clear and to the point, there's less chance of users feeling lost or frustrated.
+									</span>
+								</li>
+								<li style="font-weight: 400;" aria-level="1">
+									<span style="font-weight: 400;">
+										<strong>Reassurance.</strong> Well-crafted microcopy can reassure users that they are on the right track or that their actions have been successfully completed.
+									</span>
+								</li>
+								<li style="font-weight: 400;" aria-level="1">
+									<span style="font-weight: 400;">
+										<strong>Brand personality.</strong> Microcopy offers an opportunity to inject personality and tone into the user experience, adding a human element to processes like checkout or registration. 
+									</span>
+								</li>
+								<li style="font-weight: 400;" aria-level="1">
+									<span style="font-weight: 400;">
+										<strong>Conversion.</strong> Strategic microcopy can help influence user behaviour and drive conversions by encouraging users to take specific actions, such as signing up for a newsletter, completing a purchase, or sharing content.
+									</span>
+								</li>
+							</ul>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span>  Do you offer content strategy development in addition to writing services?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">We can provide content strategy development as part of a standalone writing project, or as part of </span>
+								<span style="text-decoration: underline;">
+									<a href="#">
+										<span style="font-weight: 400;">our SEO services</span>
+									</a>
+								</span>
+								<span style="font-weight: 400;">. When putting together a content strategy, we’ll thoroughly research into your industry landscape, competitor content strategies, and audience preferences to formulate a tailored content strategy that lines up with your objectives.&nbsp;</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">This strategy might encompass content themes, formats, channels, and publishing schedules, and feature goals like optimisation of engagement and conversion rates. Whether you need guidance on content ideation, editorial calendars, or something else, we’ll work with you to develop a strategic content roadmap that can drive tangible results.&nbsp;</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  
+				  </div>
+				  				
+				  <div class="col-sm-6">
+				   
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> Can you assist with content audits and updates for existing website content? What about content gap analysis?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">We have plenty of experience with content audits and updates as part of our SEO work, and depending on the nature of the project, much of this will be transferable. After project scoping, we begin with a comprehensive evaluation of your website's content inventory, structure, and quality. Along with your needs and requirements, we analyse factors such as content relevance, accuracy, consistency, and SEO effectiveness to identify areas for improvement. Based on the audit findings, we develop a prioritised action plan to address content gaps, outdated information, and opportunities for enhancement. Our team collaborates with you to implement content updates, revisions, and additions that align with your business goals and audience needs.</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">For gap analysis, we analyse content performance indicators such as traffic, engagement, and conversion rates to pinpoint gaps and opportunities for content enhancement. Through keyword research and audience insights, we identify topics and themes that resonate with your target audience but are currently underrepresented in your content offerings. We then work with you to develop a rundown of actionable recommendations for filling content gaps, refining existing content, and diversifying your content offerings.&nbsp;</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Throughout the process, we ensure content integrates seamlessly with your website's design and functionality, maintaining brand consistency and user experience excellence.&nbsp;</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span>  How are your standalone content and copywriting services priced?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Our standalone content and copywriting services are priced based on factors including project scope, complexity, timeframe, and your desired outcomes. We offer transparent and competitive pricing tailored to your specific needs and budget constraints. When pricing your project, we’ll also consider content volume, research requirements (especially for technical material), and audience targeting.&nbsp;</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">Whether you require blog posts, website copy, social media content, or email newsletters, our pricing reflects the quality and expertise invested in crafting compelling and effective content for your brand. We’ll always provide detailed project timeframe estimates and quotes upfront, ensuring clarity and alignment with your expectations. For more information or to request a quote, get in touch with us on </span>
+								<a href="tel:1300127361">
+									<span style="font-weight: 400;">
+										<span style="text-decoration: underline;">1300 127 361</span>
+									</span>
+								</a>
+								<span style="font-weight: 400;"> or </span>
+								<span style="text-decoration: underline;">
+									<a href="#">
+										<span style="font-weight: 400;">send us a message via our contact form</span>
+									</a>
+								</span>
+								<span style="font-weight: 400;">. </span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> How do you handle revisions and feedback during the content creation process?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+							<p>
+								<span style="font-weight: 400;">Our approach is client-centric and transparent, aiming to align with your vision and requirements at every stage. We’re equally comfortable coming up with a workflow for revisions and feedback, working to your existing processes, or collaborating to arrive at the best approach. When delivering initial drafts or concepts, we encourage open communication for you to provide feedback and suggestions for refinement. We then incorporate revisions and edits to align the content with your expectations and brand guidelines.</span>
+							</p>
+							<p>
+								<span style="font-weight: 400;">When revising, we value efficiency and responsiveness. We often find that a smaller number of substantial edit rounds is more effective and efficient than a higher number of rounds. Throughout the process, we keep you informed of progress and address any concerns or queries promptly.&nbsp;</span>
+							</p>
+						</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>

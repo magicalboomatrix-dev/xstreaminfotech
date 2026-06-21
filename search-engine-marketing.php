@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search Engine Marketing</title>
+    <?php include "head.php" ?>
+	</head>                                                                    
+   <body>
+   <div class="inner-header"><?php include "header.php" ?></div>
+	  
+	<div class="hero-section inner-hero">
+		<div class="hero-absolute">
+			<div class="hero-cir">
+				<ul class="orbiting-circles hero">
+					<li class="circle circle-1"></li>
+					<li class="circle circle-2"></li>
+					<li class="circle circle-3"></li>
+					<li class="circle circle-4"></li>
+					<li class="circle circle-5"></li>
+					<li class="circle circle-6"></li>
+				</ul>
+			</div>
+		 </div>
+         <div class="container">
+            <div class="rows">
+			<h1>
+			<span>A search engine marketing</span>  <br>
+			<span>agency in Gurugram</span>  <br>
+			<span>that gets real results.</span>
+			</h1>
+			</div>
+			<div class="info">
+			<p>Search engine marketing generally involves a set of complementary approaches and priorities that differ 
+			<br> depending on the desired outcome. We can craft a tailored SEM campaign that’s right for you.</p>
+			<div class="form-container">
+				<input type="text" placeholder="Enter your website" value="" name="sg-url" required="" />
+				<a href="contact.php" class="header_btn"><span>Free audit</span> <i class="ri-arrow-right-line"></i></a>
+			</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Our_Philosophy_section start -->
+	<!-- Our_Philosophy_section start -->
+      <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">A TRUE LEADER IN SEM</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+                     <p>We love meeting potential clients and showing them how search engine marketing can help them maximise their growth potential.</p>
+					 
+					 <p>There are no strings attached here, because we truly believe in our cutting-edge approach as an SEM agency. That means you get a personalised SEM experience—one that’s truly tailored to you.</p>
+					 
+					 <h2>Based in Gurugram, we bring a new, relationship-invested agency <br> approach to our search engine marketing.</h2>
+					 <p>Rely on us for a complete campaign that unites all the pieces to create a strong web presence. Our team is hand-picked for their expertise and experience. That means you’ll have access to the most up-to-date information and techniques available, with implementation you can trust for results now—and in the future.</p>
+					 <p>We aren’t interested in fast money for sloppy work. Instead, we use our knowledge to research, implement and track modern search engine marketing strategies that aim for sustainable, long-term results, regardless of your business and industry.</p>
+					 
+                     <div class="hide_text">	
+					 <h2>Cutting-edge SEM from a specialist digital marketing agency</h2>
+					<p>We can help you with the whole spectrum of web marketing, from fine-tuning your SEO for optimal organic search engine rankings to optimising your conversions for more sales and revenue, as well as creating a social presence that engages your customers in interesting and effective ways.</p>
+					<p>When you work with our team at XSTREAM INFOTECH, you’re assured of a strategy that is based on the very latest SEM techniques and tactics, ensuring that your site is aligned with industry standards, and is focused on long-term, sustainable results.</p>
+					  
+					<h2>SEM is more than just Google rankings and performance. It’s about business results that you can feel now.</h2>
+					<p>There was once a time when building a website and submitting it to Google was about as far as it went. The last decade has seen digital marketing change and outgrow old notions and perceptions of what a business website should do. Search engine marketing now encompasses diverse channels like Google Ads, YouTube Marketing, the Google Display Network, and Facebook marketing.</p> 
+					
+					<h2>What about SEO?</h2>
+					<p>Search engine optimisation is a major part of SEM, and we will use our expertise in this area to ensure your site is streamlined for efficient crawling, packed with high-quality content, and complemented with the full scope of digital tools and techniques. The key distinction is that where SEO is aimed at organic rankings, with your site’s content and structure helping to determine its position on the search results, SEM looks at the whole landscape including paid ads.</p>
+						
+                     </div>
+                     <div class="header_extra_btn why_choose_right_section_btn Our_Philosophy_right_section_btn" >
+                        <div class="header_btn "id="Read_more_btn">
+                           <span>Read More</span>
+                           <i class="ri-arrow-right-line"></i>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+<!-- Our_Philosophy_section end -->
+
+	  <div class="case_study_section">
+         <div class="home_team_img container">
+            <img src="assets/images/case-study.jpg" alt="" style="width:100%;">
+         </div>
+      </div>
+	  
+	  <section class="logos-slider slider">		
+		<div class="swiper-container swiper-logos-slider container">
+		  <div class="swiper-wrapper">
+			 <div class="swiper-slide"><img src="assets/images/client1.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client2.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client3.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client4.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client5.png" alt=""></div>				
+			 <div class="swiper-slide"><img src="assets/images/client6.png" alt=""></div>								 
+			 <div class="swiper-slide"><img src="assets/images/client7.png" alt=""></div>								 
+		  </div>
+		</div> 
+	   </section>
+
+	  <div class="why_chooseUs">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-12 col-sm-12">
+                  <div class="why_choose_left_section">
+                     <h5 class="sp-title">Search Engine Marketing Experts</h5>
+                  </div>
+               </div>
+               <div class="col-lg-8 col-md-12 col-sm-12">
+                  <div class="why_choose_right_section Our_Philosophy_right_section">
+				     <h2>Get a tailored search engine marketing campaign</h2>
+                     <p>Depending on your goals and requirements, our expert teams can provide one or all of the following services:</p>
+					 
+					 <ul class="ul-circle">
+					 <li><a href="#">Google Ads management</a></li>
+					 <li><a href="#">Google remarketing</a></li>
+					 <li><a href="#">Google Shopping and Merchant Centre management</a></li>
+					 <li><a href="#">Facebook marketing and remarketing</a></li>
+					 <li><a href="#">Instagram marketing and remarketing</a></li>
+					 <li><a href="#">LinkedIn marketing</a></li>
+					 <li><a href="#">Social media</a> and blogging packages, including long-form, high-quality content</li>
+					 <li><a href="#">Conversion rate optimisation</a></li>
+					 <li><a href="#">Google penalty assistance</a></li>
+					 </ul>
+					 
+					 <p>Our focus sits firmly on building your brand and creating awareness in your audience. Recent Google updates have begun to place more emphasis on brand searches, which means that simply trying to rank for keywords and phrases is no longer enough. Our comprehensive campaigns ensure you get the greatest possible value from your spend.</p>
+					
+					<h2>Get in touch for a tailored SEM strategy and learning session with our Gurugram-based team.</h2>
+					
+					<p>Digital marketing is essential in today’s world. But we know that not everybody has the time or inclination to do it. Our services make it simple to get the results you want, without ever compromising the smooth operation of your business. We’re the search engine marketing agency that feels like an in-house marketing team.</p>
+						
+                     </div>
+                     
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <?php include 'team-slider.php'?>
+	  
+	  <div class="home_team_section inner-casestudy-section">
+         <div class="cotainer">
+         <div class="row align-items-center">
+         <div class="col-sm-7">
+            <img src="assets/images/sg-block-03.jpg" alt="" class="img-fluid">
+         </div>
+		 <div class="col-sm-5">
+		 <div class="info">
+            <h2>Discover what we can do for <br> your business.</h2>
+			<p>Give us a call on 1300 127 361 or use our contact form to let us know what you need. We’ll be happy to answer your questions and help you take the first steps in your search engine marketing journey with a Gurugram agency that truly cares about the relationship and the results.</p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </div>	  
+	  
+	  <?php include "blog-slider.php" ?>
+	   
+	   
+	   <section class="faq-section">	
+		<div class="container">
+			<h2 class="title">You might be wondering...  </h2>
+			
+				<div class="accordion" id="accordionExample1" itemscope="" >
+				  <div class="row">
+				  <div class="col-sm-6">
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingOne">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+						<b itemprop="name"><span class="sr">01.</span> What’s the keyword research and selection process?</b>
+					  </button>
+					</h2>
+					<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<h2 class="h4 mb-3">Our approach to keyword research begins with an in-depth understanding of your business, industry, competitors, and target audience.</h2>
+	<p>This involves an initial consultation where we explore your business goals, target demographics, unique selling points, and the key messages you want to communicate.</p>
+	<p>After gaining a comprehensive understanding, we proceed to identify primary and secondary keywords. Our primary keyword research focuses on core search terms that are directly relevant to your business and industry. Secondary keywords are also identified, typically long-tail keywords. While they have a lower search volume, these often have higher conversion rates due to their specific nature.</p>
+	<p>In our keyword selection process, we focus on relevancy, search volume, keyword difficulty, and commercial intent. We utilise industry-leading tools to ensure that our keyword suggestions are data-driven.</p>
+	<p>One of our unique strategies is also conducting a thorough competitor keyword analysis. By evaluating the keywords your competitors are ranking for, we can identify gaps in their strategies and potential opportunities for your business.</p>
+	<p>Keyword trends can change rapidly, and we don’t believe in ‘set and forget’. We continuously monitor keyword performance, trends, and industry changes. This ongoing keyword analysis allows us to update and refine your SEM and SEO strategy accordingly, ensuring that your website continues to rank well and attract the right audience.</p>
+	<p>It's about more than just getting people to your site. It's about getting the right people to your site and ensuring they engage with your content and take the desired actions. Our end goal is to make your website more visible to those seeking what you offer, leading to increased traffic, conversions, and ultimately, sales.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingTwo">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+						<b itemprop="name"><span class="sr">02.</span> How does XSTREAM INFOTECH optimise ad copy and landing pages?</b>
+					  </button>
+					</h2>
+					<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>We have a defined process for this. Here’s how it usually works.</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Audience research:</strong> We start by thoroughly understanding your target audience—who they are, their motivations, their challenges and needs, and how your product or service fits into that picture. This forms the backbone of all our optimisation efforts.
+		</li>
+		<li>
+			<strong>Keyword research:</strong> Using a mix of tools, we conduct in-depth keyword research to identify high-intent keywords related to your business, ensuring that your ads and landing pages are always relevant to what your target audience is searching for online.
+		</li>
+		<li>
+			<strong>Competitor analysis:</strong> We analyse what your competitors are doing in terms of their ad copy and landing pages. We look for gaps and opportunities to differentiate your brand and highlight the unique value you provide.
+		</li>
+		<li>
+			<strong>Compelling ad copy and content:</strong> With the information gathered, we craft high-quality copy and content that resonates with your target audience. We ensure that the copy highlights your unique selling proposition and drives action through strong, clear calls-to-action.
+		</li>
+		<li>
+			<strong>Landing page optimisation:</strong> We design and optimise landing pages to maximise conversions. This includes clear and concise messaging, compelling headlines, high-quality images, and a simple, user-friendly design. We also make sure the landing page aligns well with the ad copy to create a seamless user journey from the ad to the landing page.
+		</li>
+		<li>
+			<strong>A/B testing:</strong> We continuously test different versions of ad copy and landing pages to determine what works best with your audience. This iterative approach allows us to continually improve and optimise your ads and landing pages based on real data and insights.
+		</li>
+		<li>
+			<strong>Data analysis and reporting:</strong> We analyse performance data to identify trends, uncover insights, and make data-driven decisions. We provide transparent, easy-to-understand reports so you can see exactly how your campaigns are performing and where improvements are being made.
+		</li>
+		<li>
+			<strong>Continuous learning and iteration:</strong> Digital marketing is not a set-it-and-forget-it process. We continue to learn from the data, iterate on our strategies, and optimise your ad copy and landing pages to improve performance over time.
+		</li>
+	</ul>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingThree">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+						<b itemprop="name"><span class="sr">03.</span> What is XSTREAM INFOTECH’s strategy for setting and managing bids?</b>
+					  </button>
+					</h2>
+					<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Our approach to bid management is data-driven, flexible, and tailored to each client's unique business objectives. Here's an overview of our process:&nbsp;</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Understanding your goals:</strong> The first step in our bidding strategy involves a comprehensive understanding of your business objectives. Are you looking for increased traffic, lead generation, brand awareness, or direct sales? We set the bids according to the defined KPIs and your budgetary constraints.
+		</li>
+		<li>
+			<strong>Keyword analysis and selection:</strong> We perform extensive keyword research to determine the most relevant keywords for your business. The bid amounts are then set based on the competition and search volume of these keywords.
+		</li>
+		<li>
+			<strong>Competitor analysis:</strong> We also conduct a thorough analysis to understand your competitors’ bidding strategies, allowing us to identify opportunities where we can outperform.
+		</li>
+		<li>
+			<strong>Conversion tracking:</strong> As with our approach to keywords, we don't just set and forget bids. We continuously monitor conversions and adjust bids to optimise cost per conversion. Our aim is not just to drive traffic but also to drive conversions that bring business value.
+		</li>
+		<li>
+			<strong>Bid adjustment:</strong> We adjust bids based on factors like device, location, time of day, and user behaviour. For instance, if we notice that a large number of conversions are coming from mobile devices during a certain time of the day, we increase the bid for that specific scenario.
+		</li>
+		<li>
+			<strong>Performance monitoring and optimisation:</strong> We continuously monitor the performance of our bids using data analytics. By leveraging AI and machine learning algorithms, we can identify trends and patterns that help us optimise bids even further.
+		</li>
+		<li>
+			<strong>Regular reporting:</strong> We believe in complete transparency. Hence, we provide regular reports detailing the performance of the bids and the achieved results. This allows you to see where your money is going and what return you're getting on your investment.
+		</li>
+	</ul>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFour">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+						<b itemprop="name"><span class="sr">04.</span> How is SEM performance measured and tracked?</b>
+					  </button>
+					</h2>
+					<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>As a leading SEM agency in Gurugram, we have several methods and tools in place to track and measure the performance of our campaigns. Here's how we do it:</p>
+	<ul class="ul-circle">
+		<li>
+			<strong>Google Analytics and Google Ads integration:</strong> By integrating Google Analytics with Google Ads, we track a wide range of metrics including click-through rate (or CTR), bounce and engagement rates, pages per visit, and average time on site, among others. We also analyse conversion paths to understand the role of SEM in your customer journey.
+		</li>
+		<li>
+			<strong>Goal tracking:</strong> We set up specific goals related to your campaign objectives, such as form submissions, downloads, or purchases, and track these goals in Google Analytics to measure the direct impact of our SEM efforts.
+		</li>
+		<li>
+			<strong>UTM parameters:</strong> By utilising UTM parameters, we are able to identify the source, medium, and campaign that directs visitors to your website. This provides clear insights into which campaigns and platforms are performing well.
+		</li>
+		<li>
+			<strong>Conversions and conversion rates:</strong> We closely monitor both micro and macro conversions, which range from email sign-ups to completed sales, to evaluate campaign effectiveness. The conversion rate gives us an idea of how well our ads and landing pages are performing.
+		</li>
+		<li>
+			<strong>Return on ad spend (ROAS):</strong> This is a critical financial metric which tells us how much revenue we're generating for every dollar spent on advertising. It's an excellent way to gauge the financial success of our SEM campaigns.
+		</li>
+		<li>
+			<strong>Keyword performance:</strong> We track the performance of individual keywords in your SEM campaigns, which helps us identify high performing keywords to optimise and low performing keywords to pause or bid adjust.
+		</li>
+		<li>
+			<strong>A/B testing:</strong> We continually run A/B tests on ad copy, landing pages, and other elements to determine what works best, and optimise based on the results.
+		</li>
+		<li>
+			<strong>Audience engagement metrics:</strong> We analyse audience behaviour and engagement metrics such as bounce rate, pages per session, and average session duration to understand the quality of traffic from our SEM efforts.
+		</li>
+		<li>
+			<strong>AI and machine learning:</strong> Our agency leverages advanced AI and machine learning algorithms to optimise bid strategies, which helps us deliver better results and maximises your ROI.
+		</li>
+		<li>
+			<strong>Reporting and communication:</strong> We provide detailed monthly reports and maintain open communication so you can see exactly how your campaigns are performing. We believe in transparency and ensure you understand the insights and implications behind the data.
+		</li>
+	</ul>
+	<p>Our comprehensive approach to tracking and measuring SEM performance ensures we can deliver the best results for your business, continuously improving through data-driven insights.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  </div>
+				  				
+				  <div class="col-sm-6">
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingFive">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+						<b itemprop="name"><span class="sr">05.</span> Can you manage both Search and Display campaigns?</b>
+					  </button>
+					</h2>
+					<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Absolutely. We manage both Search and Display campaigns for many clients, with an innovative and data-driven approach that sets us apart from other SEM agencies in Gurugram and throughout Australia.</p>
+	<p>For search campaigns, our experts dive deep into keyword research and analysis to ensure we target your potential customers at the precise moment they're looking for what you offer. We then build out tailored ad copy that resonates with your audience and drives them to convert. And with continual monitoring and optimisation, we make sure your campaign is always performing at its highest potential.</p>
+	<p>For display campaigns, we leverage the vast reach of the Google Display Network and other platforms to create eye-catching visuals and messages that increase brand awareness, drive engagement, and convert prospects into customers. Our team has a deep understanding of audience segmentation, targeting strategies, and creative design.</p>
+	<p>But we don't stop at just managing these campaigns. We continually measure and analyse the performance of both search and display ads. Using advanced analytics and custom-built reporting dashboards, we provide you with clear, actionable insights into how your campaigns are performing and where there are opportunities for improvement.</p>
+	<p>Finally, we're firm believers in integrated strategy. We understand that search and display don't operate in silos, but rather, they work together to create a holistic, cross-channel digital marketing strategy. This approach ensures you're reaching the right audience, with the right message, at the right time—wherever they may be online.</p>
+	<p>Our aim is not only to manage your search and display campaigns, but to deliver impactful results that align with your business objectives and growth strategies.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSix">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+						<b itemprop="name"><span class="sr">06.</span> Does XSTREAM INFOTECH have experience with remarketing/retargeting strategies?</b>
+					  </button>
+					</h2>
+					<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>Absolutely. We have a wealth of experience implementing remarketing and retargeting strategies for a wide range of clients. Our strategies are driven by data, carefully tailored to meet the unique needs of each business, and are designed to maximise return on ad spend.</p>
+	<p>
+		<strong>We utilise retargeting strategies across several platforms, including Google Ads, Bing Ads, and social media platforms such as Facebook, Instagram, and LinkedIn.</strong>
+	</p>
+	<p>We've helped our clients tap into their potential audience by targeting users who have shown prior interest in their products or services, which has significantly boosted conversion rates and ROI.
+		<br>Our team keeps abreast of the latest remarketing technologies and strategies, which enables us to optimise campaigns for the best possible outcomes. We also use advanced audience segmentation, dynamic ad creation, and rigorous A/B testing to ensure that our remarketing campaigns are effectively reaching the right audiences with the right messaging at the right time.
+		</p>
+		<p>Furthermore, we strongly value transparency in our partnerships and provide detailed, easy-to-understand reports that break down the performance of our campaigns. This allows our clients to see exactly how their investment is paying off and helps guide future strategies.</p>
+		<p>Our ultimate goal is to help our clients stay top-of-mind for their potential customers and we believe that our expertise in remarketing strategies can help achieve this.</p>
+	</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+				  
+				  <div class="accordion-item" itemscope="" itemprop="mainEntity" >
+					<h2 class="accordion-header" id="headingSeven">
+					  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+						<b itemprop="name"><span class="sr">07.</span> Is XSTREAM INFOTECH a Google Partner or Premier Partner agency?</b>
+					  </button>
+					</h2>
+					<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+						<div itemscope="" itemprop="acceptedAnswer" >
+					  <div class="accordion-body" itemprop="text">
+						<span>
+	<p>We’re proud to be recognised as a Google Partner Agency. This partnership stands as a testament to our extensive experience with Google's products and services, as well as our commitment to meeting and exceeding Google's performance requirements.</p>
+	<p>Our Google Partner status grants us access to a number of significant benefits that we utilise to enhance our clients' search engine marketing (SEM) strategies.</p>
+	<ul class="ul-circle">
+		<li>We get early access to beta features. This means that we can offer you the latest developments from Google up to a year before they become available to the public, providing you with a competitive advantage in the marketplace.</li>
+		<li>We have direct access to Google's own agency team. This means we can escalate issues quickly and receive prompt, dedicated support, enabling us to manage your campaigns more efficiently.</li>
+		<li>Finally, our Google Partner status signals that we have demonstrated advanced proficiency in Google's advertising products, that we consistently adhere to Google's best practices, and that we deliver client revenue growth. Working with XSTREAM INFOTECH means working with a trusted and competent partner who can help drive your SEM efforts forward effectively.</li>
+	</ul>
+	<p>We aim not just to meet our clients' expectations, but to exceed them. We're proud to bring the benefits of our Google Partner status to all of our clients and look forward to discussing how we can support your SEM goals.</p>
+</span>
+					  </div>
+						</div>
+					</div>
+				  </div>
+			
+				</div>
+				</div>
+			</div>
+			
+			</div>
+		</div>
+	   </section>
+	   
+      <?php include "footer.php"?>
+   </body>
+</html>
