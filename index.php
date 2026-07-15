@@ -61,7 +61,7 @@
                </div>
                <div class="col-lg-8 col-md-12 col-sm-12">
                   <div class="why_choose_right_section">
-                     <h2>Gurugram’s premier digital marketing agency</h2>
+                     <h2>Hisar’s premier digital marketing agency</h2>
                      <p>We’re an award-winning digital marketing agency based in Gurugram. We obsess about details and results like your business and marketing are our own. We pride ourselves on technical excellence and aim to become a real extension of your own team.</p>
                      <div class="header_extra_btn why_choose_right_section_btn">
                         <div class="form-container">							
