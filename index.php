@@ -287,7 +287,6 @@ You could have the best service in the world—but what if your potential custom
       </div>
       <!-- Our_Philosophy_section end -->
 	  
-	  <!--?php include 'team-slider.php'?-->
       
       <!-- team_section start -->
       <div class="home_team_section">
